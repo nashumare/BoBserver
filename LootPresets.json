@@ -1,0 +1,241 @@
+{
+  "base": [
+    {
+      "presetName": "Preset_PvP_Events",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+        "Clothing",
+        "Weapons",
+        "Medicals"
+      ],
+      "root": 1
+    },
+    {
+      "presetName": "Clothing",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+        "Boots",
+        "TacTop",
+		"Helmet",
+		"Vets",
+        "CombatPants"
+      ],
+      "root": 0
+    },
+    {
+      "presetName": "Weapons",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+        "MainWeapon",
+        "TTC_Mag_Glock_17Rnd"
+      ],
+      "root": 0
+    },
+    {
+      "presetName": "Medicals",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+        "Ammo_9x19",
+        "CombatKnife",
+        "BandageDressing"
+      ],
+      "root": 0
+    }
+  ],
+  "items": [
+    {
+      "presetName": "Boots",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Paragon_TacBoots_Green",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+    {
+      "presetName": "CombatPants",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Paragon_CombatPants_Digital_Flora",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+    {
+      "presetName": "TacTop",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Paragon_TacJacket_Green",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+	{
+      "presetName": "Helmet",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Paragon_Scifi_H_Green",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+	{
+      "presetName": "Vest",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+		"Paragon_BackPouch_Green",
+		"Paragon_IFAK_Green",
+		"Paragon_IFAK_Green"
+	  ],
+      "itemname": "Paragon_6B13_WL",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+    {
+      "presetName": "MainWeapon",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+        "Mag1",
+		"SNAFU_AtlasBipod",
+		"MainScope"
+		
+      ],
+      "itemname": "SNAFU_MAR10_Black_GUN",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+    {
+      "presetName": "Mag1",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "SNAFU_Mar10_15rnd_Mag",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "mag"
+    },
+	{
+      "presetName": "Mag2",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "SNAFU_Mar10_15rnd_Mag",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "cargo"
+    },
+	{
+      "presetName": "Mag3",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "SNAFU_Mar10_15rnd_Mag",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "cargo"
+    },
+    {
+      "presetName": "SNAFU_Ammo_338",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "SNAFU_Ammo_338",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "cargo"
+    },
+	{
+      "presetName": "Ammo_762x54",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Ammo_762x54",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "cargo"
+    },
+    {
+      "presetName": "BandageDressing",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "BandageDressing",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "cargo"
+    },
+	{
+      "presetName": "SNAFU_AtlasBipod",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "SNAFU_AtlasBipod",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "att"
+    },
+	{
+      "presetName": "MainScope",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "TTC_HAMR",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "att"
+    },
+	{
+      "presetName": "Pouch",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+		"SNAFU_Ammo_338",
+		"Ammo_762x54",
+		"Mag2",
+		"Mag3"
+	  ],
+      "itemname": "Paragon_BackPouch_Green",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "att"
+    },
+	{
+      "presetName": "IFAK",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Paragon_IFAK_Green",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "att"
+    }
+  ]
+}
