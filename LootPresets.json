@@ -40,7 +40,8 @@
       "individualChance": 1,
       "chance": 1,
       "items": [
-        "MainWeapon"
+        "MainWeapon",
+		"SecondaryWeapon"
       ],
       "root": 0
     },
@@ -49,9 +50,10 @@
       "individualChance": 1,
       "chance": 1,
       "items": [
-        "Ammo_9x19",
-        "CombatKnife",
-        "BandageDressing"
+        "GoldenStar",
+        "BandageDressing",
+		"BandageDressing",
+		"BandageDressing"
       ],
       "root": 0
     },
@@ -163,7 +165,7 @@
       "chance": 1,
       "items": [],
       "itemname": "BandageDressing",
-      "addToHotbar": 0,
+      "addToHotbar": 5,
       "quantmin": -1,
       "quantmax": -1,
       "spawnIn": "any"
@@ -249,7 +251,7 @@
 		
       ],
       "itemname": "SNAFU_MAR10_Black_GUN",
-      "addToHotbar": 0,
+      "addToHotbar": 2,
       "quantmin": -1,
       "quantmax": -1,
       "spawnIn": "any"
@@ -339,7 +341,9 @@
 		"SNAFU_Ammo_338",
 		"Ammo_762x54",
 		"Mag2",
-		"Mag3"
+		"Mag3",
+		"Mag5",
+		"Mag6"
 	  ],
       "itemname": "Paragon_BackPouch_Green",
       "addToHotbar": 0,
@@ -353,6 +357,89 @@
       "chance": 1,
       "items": [],
       "itemname": "Paragon_IFAK_Green",
+      "addToHotbar": 4,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "att"
+    },
+	{
+      "presetName": "GoldenStar",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "AX_GoldenStar",
+      "addToHotbar": 3,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+	{
+      "presetName": "SecondaryWeapon",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+        "Mag4",
+		"pkpbipod",
+		"SecondaryScope"
+		
+		
+      ],
+      "itemname": "Snafu_pkp_Black_GUN",
+      "addToHotbar": 1,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+	{
+      "presetName": "Mag4",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Snafu_pkp_250RND_Mag",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "mag"
+    },
+	{
+      "presetName": "pkpbipod",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "SNAFU_NPKPBIPOD",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "att"
+    },
+	{
+      "presetName": "Mag5",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Snafu_pkp_250RND_Mag",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "cargo"
+    },
+	{
+      "presetName": "Mag6",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Snafu_pkp_250RND_Mag",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "cargo"
+    },
+	{
+      "presetName": "SecondaryScope",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "TTC_EotechVudu_Tan_AK_Optic",
       "addToHotbar": 0,
       "quantmin": -1,
       "quantmax": -1,
