@@ -19,7 +19,7 @@
         "Boots",
         "TacTop",
 		"Helmet",
-		"Vets",
+		"Vest",
         "CombatPants"
       ],
       "root": 0
@@ -29,8 +29,7 @@
       "individualChance": 1,
       "chance": 1,
       "items": [
-        "MainWeapon",
-        "TTC_Mag_Glock_17Rnd"
+        "MainWeapon"
       ],
       "root": 0
     },
@@ -96,9 +95,9 @@
       "individualChance": 1,
       "chance": 1,
       "items": [
-		"Paragon_BackPouch_Green",
-		"Paragon_IFAK_Green",
-		"Paragon_IFAK_Green"
+		"Pouch",
+		"IFAK",
+		"IFAK"
 	  ],
       "itemname": "Paragon_6B13_WL",
       "addToHotbar": 0,
