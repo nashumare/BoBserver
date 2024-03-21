@@ -218,6 +218,54 @@
         "Paragon_Shorts_Red",
         "Paragon_Shorts_Green"
       ]
+    },
+	{
+      "ClassName": "SM_Mercenary_Pants_Red_and_Yellow",
+      "MaxPriceThreshold": 2350,
+      "MinPriceThreshold": 2350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SM_Mercenary_Pants_White",
+        "SM_Mercenary_Pants_Black"
+      ]
+    },
+	{
+      "ClassName": "SM_Rabbit_Pants_Blue",
+      "MaxPriceThreshold": 2350,
+      "MinPriceThreshold": 2350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SM_Rabbit_Pants_Blue_Gray",
+        "SM_Rabbit_Pants_Blue_Purple",
+        "SM_Rabbit_Pants_Gold_Blue",
+        "SM_Rabbit_Pants_Gray",
+        "SM_Rabbit_Pants_Green"
+      ]
+    },
+	{
+      "ClassName": "SM_Rabbit_Pants_Pink",
+      "MaxPriceThreshold": 2350,
+      "MinPriceThreshold": 2350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SM_Rabbit_Pants_Pink_Pony",
+        "SM_Rabbit_Pants_Purple_Blue",
+        "SM_Rabbit_Pants_Purple_Pony",
+        "SM_Rabbit_Pants_Red",
+        "SM_Rabbit_Pants_Sakura"
+      ]
     }
   ]
 }
