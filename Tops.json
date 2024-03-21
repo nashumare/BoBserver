@@ -303,6 +303,68 @@
         "Paragon_Hoodie_White_Nike",
         "Paragon_Hoodie_Grey_Nike"
       ]
+    },
+	{
+      "ClassName": "SM_Mercenary_Jacket_Yellow",
+      "MaxPriceThreshold": 5670,
+      "MinPriceThreshold": 5670,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SM_Mercenary_Jacket_Black",
+        "SM_Mercenary_Jacket_White"
+      ]
+    },
+	{
+      "ClassName": "SM_Mercenary_Jacket_NO_EXO_Yellow",
+      "MaxPriceThreshold": 2180,
+      "MinPriceThreshold": 2180,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SM_Mercenary_Jacket_NO_EXO_Black",
+        "SM_Mercenary_Jacket_NO_EXO_White"
+      ]
+    },
+	{
+      "ClassName": "SM_Rabbit_Jacket_Blue",
+      "MaxPriceThreshold": 2180,
+      "MinPriceThreshold": 2180,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SM_Rabbit_Jacket_Blue_Gray",
+        "SM_Rabbit_Jacket_Blue_Purple",
+        "SM_Rabbit_Jacket_Gold_Blue",
+        "SM_Rabbit_Jacket_Gray",
+        "SM_Rabbit_Jacket_Green"
+      ]
+    },
+	{
+      "ClassName": "SM_Rabbit_Jacket_Pink",
+      "MaxPriceThreshold": 2180,
+      "MinPriceThreshold": 2180,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SM_Rabbit_Jacket_Pink_Pony",
+        "SM_Rabbit_Jacket_Purple_Blue",
+        "SM_Rabbit_Jacket_Purple_Pony",
+        "SM_Rabbit_Jacket_Red",
+        "SM_Rabbit_Jacket_Sakura"
+      ]
     }
   ]
 }
