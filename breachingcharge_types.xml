@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="HDSN_BreachingCharge">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="explosives"/>
+      	<usage name="Military"/>
+      	<usage name="Crypt" />
+		<value name="Tier14" />
+	</type>
+	<type name="HDSN_BreachingChargeHeavy">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="explosives"/>
+      	<usage name="Military"/>
+      	<usage name="Crypt" />
+		<value name="Tier14" />
+    </type>
+	<type name="HDSN_Explosive">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost></cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="explosives"/>
+		<usage name="Military"/>
+		<value name="Tier10"/>
+	</type>
+  	<type name="HDSN_C4NoWiring">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="explosives"/>
+      	<usage name="Military"/>
+		<value name="Tier14" />
+	</type>
+	<type name="HDSN_Charcoal">
+		<nominal>15</nominal>
+		<lifetime>7200</lifetime>
+		<restock>3600</restock>
+		<min>7</min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="explosives"/>
+      	<usage name="Temple" />
+		<usage name="Military"/>
+		<value name="Tier10"/>
+	</type>
+	<type name="HDSN_Sulfur">
+		<nominal>15</nominal>
+		<lifetime>7200</lifetime>
+		<restock>3600</restock>
+		<min>7</min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="explosives"/>
+      	<usage name="Temple" />
+		<usage name="Military"/>
+		<value name="Tier10"/>
+	</type>
+	<type name="HDSN_Gunpowder">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>20</quantmin>
+		<quantmax>30</quantmax>
+		<cost></cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="explosives"/>
+      	<usage name="Temple" />
+		<usage name="Military"/>
+		<value name="Tier10"/>
+	</type>
+	<type name="HDSN_Detonator">
+		<nominal>30</nominal>
+		<lifetime>7200</lifetime>
+		<restock>900</restock>
+		<min>15</min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="explosives"/>
+		<usage name="Firefighter" />
+		<usage name="Police" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier8" />
+		<value name="Tier11" />
+		<value name="Tier13" />
+		<value name="Tier15" />
+		<value name="Tier17" />
+	</type>
+	<type name="HDSN_C4Sticks">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      	<category name="explosives"/>
+      	<usage name="Military"/>
+      	<value name="Tier7" />
+		<value name="Tier14" />
+	</type>
+	<type name="HDSN_C4Stick">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>900</restock>
+		<min>4</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost></cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="explosives"/>
+      	<usage name="Temple" />
+		<usage name="Military"/>
+		<value name="Tier10"/>
+	</type>
+</types>

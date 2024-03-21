@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+<type name="GB_Bitcoin">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+       </type>  
+    <type name="GB_GPU2000d">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+		<usage name="School" />
+		<usage name="Industrial"/>
+		<usage name="Office" />
+		<tag name="shelves"/>
+		<tag name="floor"/>
+    </type>  	
+   <type name="GB_MSI_3080">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+                  <usage name="Town"/>
+        <usage name="Industrial"/>
+		<usage name="Office" />
+		<tag name="shelves"/>
+		<tag name="floor"/>
+		<value name="Tier5"/>
+		<value name="Tier11"/>
+    </type> 
+	    <type name="GB_UnnamedGPU">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+                  <usage name="Town"/>
+        <usage name="Village"/>
+		<value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+        <tag name="shelves"/>
+    </type> 
+	    <type name="GB_RTX6900">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Town"/>
+        <usage name="Industrial"/>
+		<usage name="Office" />
+		<tag name="shelves"/>
+		<tag name="floor"/>
+		<value name="Tier5"/>
+		<value name="Tier11"/>
+    </type> 
+	<type name="GB_GPU1080">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+		<usage name="School" />
+		<usage name="Industrial"/>
+		<usage name="Office" />
+		<tag name="shelves"/>
+		<tag name="floor"/>
+    </type> 
+	<type name="GB_GPU2080TI">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Town"/>
+        <value name="Tier4"/>
+        <tag name="shelves"/>
+    </type>  
+	<type name="GB_GPU3080">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>  
+	<type name="GB_NvidiaProBlack">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Town"/>
+        <usage name="Industrial"/>
+		<usage name="Office" />
+		<tag name="shelves"/>
+		<tag name="floor"/>
+		<value name="Tier5"/>
+		<value name="Tier11"/>
+    </type>
+  	<type name="GB_Basic_USB_1">
+        <nominal>5</nominal>
+        <lifetime>7200</lifetime>
+        <restock>360</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      	<category name="tools"/>
+      	<tag name="shelves"/>
+		<tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Industrial"/>
+		<usage name="Office" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier9"/>
+		<value name="Tier11" />
+    	<value name="Tier13" />
+    </type>
+  	<type name="GB_Mystery_Box_USB">
+        <nominal>5</nominal>
+        <lifetime>7200</lifetime>
+        <restock>360</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+      	<tag name="shelves"/>
+		<tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Industrial"/>
+		<usage name="Office" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier9"/>
+		<value name="Tier11" />
+    	<value name="Tier13" />
+    </type>
+	<type name="GB_NvidiaProRed">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Town"/>
+        <usage name="Industrial"/>
+		<usage name="Office" />
+		<tag name="shelves"/>
+		<tag name="floor"/>
+		<value name="Tier5"/>
+		<value name="Tier11"/>
+    </type>
+	<type name="GB_NvidiaProWhite">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+           <usage name="Town"/>
+        <usage name="Industrial"/>
+		<usage name="Office" />
+		<tag name="shelves"/>
+		<tag name="floor"/>
+		<value name="Tier5"/>
+		<value name="Tier11"/>
+    </type>  
+	<type name="GB_FanBar">
+        <nominal>10</nominal>
+        <lifetime>28800</lifetime>
+        <restock>360</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+      	<tag name="shelves"/>
+		<tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Industrial"/>
+		<usage name="Office" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier9"/>
+		<value name="Tier11" />
+    	<value name="Tier13" />
+    </type>
+	<type name="GB_Fan">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+          <usage name="Town"/>
+        <usage name="Village"/>
+		<value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="GB_PSU">
+        <nominal>10</nominal>
+        <lifetime>28800</lifetime>
+        <restock>360</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      	<category name="tools"/>
+      	<tag name="shelves"/>
+		<tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Industrial"/>
+		<usage name="Office" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier9"/>
+		<value name="Tier11" />
+    	<value name="Tier13" />
+    </type>
+	<type name="GB_Bitcoin_Mining_Rig">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        </type>
+	<type name="GB_Antmining_Rig">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type> 
+	<type name="GB_Sky_Mining_Rig">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type> 
+	<type name="GB_Server_Rack">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type> 
+	<type name="GB_Server_Rack_Kit">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type> 
+	<type name="GB_SolarPannel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>9600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type> 
+	<type name="GB_Bitcoin_Mining_Rig_Kit">
+        <nominal>5</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      	<category name="tools"/>
+		<tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Industrial"/>
+		<value name="Tier1"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier6"/>
+		<value name="Tier8"/>
+		<value name="Tier11"/>
+		<value name="Tier13"/>
+		<value name="Tier15"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="GB_Sky_Mining_Rig_Kit">
+        <nominal>10</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      	<category name="tools"/>
+		<tag name="floor"/>
+        <usage name="Town"/>
+        <usage name="Industrial"/>
+		<value name="Tier1"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier6"/>
+		<value name="Tier8"/>
+		<value name="Tier11"/>
+		<value name="Tier13"/>
+		<value name="Tier15"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="GB_Mining_Rig_Parts">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+		<value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>	
+	<type name="GB_GPUBOX">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+		<usage name="School" />
+		<usage name="Industrial"/>
+		<usage name="Office" />
+		<tag name="shelves"/>
+		<tag name="floor"/>
+    </type>
+	<type name="GB_HeatSync">
+        <nominal>20</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>7</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+      	<tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Industrial"/>
+		<usage name="Office" />
+		<value name="Tier1"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+		<value name="Tier6"/>
+		<value name="Tier8"/>
+		<value name="Tier11"/>
+		<value name="Tier13"/>
+		<value name="Tier15"/>
+		<value name="Tier17"/>
+    </type>
+	<type name="GB_SpinningFan">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="MotherBoard">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+     </type>
+	<type name="black_cables">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="GB_GPU">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+		<usage name="School" />
+		<usage name="Industrial"/>
+		<usage name="Office" />
+		<tag name="shelves"/>
+		<tag name="floor"/>
+    </type>
+	<type name="GB_GPUTITANRTX">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+		<value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+        <tag name="shelves"/>
+    </type>
+	<type name="GB_GPU4090">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+		<value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+        <tag name="shelves"/>
+    </type>
+</types>	

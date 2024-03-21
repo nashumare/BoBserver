@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="Wallpaper_America">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_Architect">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_Autumn">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_BladeRunner">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_BusyCity">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_Eqyptian">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_FarEast">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_FlowerCage">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_Forest">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_GoldDwellings">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_GoldFlower">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_MagicDragonScales">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_Majestic">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_NatureDrained">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_NaturesWall">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_Roots">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_Space">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_StainedGlass">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_TechWood">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_TinyWarriors">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_Wave">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_YellowSubWall">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_20kLeagues">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_America">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Angelina">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Astronomy">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Bear">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_City">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_DayAtTheSauna">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Dragon">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_egyptian">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Elegance">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_FifthElement">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_FlyingMachine">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Grass">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Insanity">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_LadiesNightOut">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_LovingPride">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Relax">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Robots">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_SleepingBeauty">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Tech">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Tetris">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_TheBomb">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_ThePrincess">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_TheWave">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Three">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Vertigo">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_Voodoo">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wallpaper_mural_YellowSubmarine">
+		<nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+		<restock>0</restock>
+        <min>0</min>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+ </types> 

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	<type name="ArzzzPKM">
+		<attachments chance="1.00">
+			<item name="AD_ACOG_RMR_B13" chance="0.10" />
+			<item name="SNAFU_AKAimpoint_ACO" chance="0.10" />
+			<item name="SNAFU_AKElcan" chance="0.10" />
+			<item name="TTC_Elcan_AK" chance="0.10" />
+			<item name="TTC_HAMR_AK" chance="0.10" />
+			<item name="TTC_EotechVudu_AK_Optic" chance="0.10" />
+			<item name="AD_SpecterDR_B13" chance="0.10" />
+			<item name="AD_OKP7_B13" chance="0.10" />
+			<item name="SNAFU_AKWalther" chance="0.10" />
+			<item name="SNAFU_Tango6T_Snow" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ArzzzPKM_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ArzzzM240">
+		<attachments chance="1.00">
+			<item name="AD_ACOG_RMR" chance="0.10" />
+			<item name="TTC_Aimpoint2000" chance="0.10" />
+			<item name="SNAFU_Aimpoint_ACO" chance="0.10" />
+			<item name="TTC_EotechVudu_Tan_Optic" chance="0.10" />
+			<item name="SNAFU_Kobra" chance="0.10" />
+			<item name="TTC_HAMR" chance="0.10" />
+			<item name="AD_SpecterDR" chance="0.10" />
+			<item name="TTC_Car15V2_Optic" chance="0.10" />
+			<item name="AD_OKP7" chance="0.10" />
+			<item name="SNAFU_Walther" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ArzzzM240_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ArzzzM249SAW">
+		<attachments chance="1.00">
+			<item name="AD_ACOG_RMR" chance="0.10" />
+			<item name="TTC_Aimpoint2000" chance="0.10" />
+			<item name="SNAFU_Aimpoint_ACO" chance="0.10" />
+			<item name="TTC_EotechVudu_Tan_Optic" chance="0.10" />
+			<item name="SNAFU_Kobra" chance="0.10" />
+			<item name="TTC_HAMR" chance="0.10" />
+			<item name="AD_SpecterDR" chance="0.10" />
+			<item name="TTC_Car15V2_Optic" chance="0.10" />
+			<item name="AD_OKP7" chance="0.10" />
+			<item name="SNAFU_Walther" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ArzzzM249SAW_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ArzzzKSVK">
+		<attachments chance="1.00">
+			<item name="TTC_G28_Optic" chance="0.10" />
+			<item name="TTC_VortexSE_Optic" chance="0.10" />
+			<item name="TTC_VortexRHDAMG_Optic" chance="0.10" />
+			<item name="SNAFU_HNightforce" chance="0.10" />
+			<item name="SNAFU_MTango6T_Tan" chance="0.10" />
+			<item name="SNAFU_MLeupold_Mark8" chance="0.10" />
+			<item name="AD_LeupoldMk4" chance="0.10" />
+			<item name="AD_NFATACR_1_8" chance="0.10" />
+			<item name="AD_NFATACR" chance="0.10" />
+			<item name="AD_Pilad" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ArzzzKSVK_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ArzzzL96A1">
+		<attachments chance="1.00">
+			<item name="TTC_G28_Optic" chance="0.10" />
+			<item name="TTC_VortexSE_Optic" chance="0.10" />
+			<item name="TTC_VortexRHDAMG_Optic" chance="0.10" />
+			<item name="SNAFU_HNightforce" chance="0.10" />
+			<item name="SNAFU_MTango6T_Tan" chance="0.10" />
+			<item name="SNAFU_MLeupold_Mark8" chance="0.10" />
+			<item name="AD_LeupoldMk4" chance="0.10" />
+			<item name="AD_NFATACR_1_8" chance="0.10" />
+			<item name="AD_NFATACR" chance="0.10" />
+			<item name="AD_Pilad" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ArzzzL96A1_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="ArzzzSVD">
+		<attachments chance="1.00">
+			<item name="SNAFU_AKElcan" chance="0.20" />
+			<item name="TTC_Elcan_AK" chance="0.20" />
+			<item name="TTC_HAMR_AK" chance="0.20" />
+			<item name="AD_SpecterDR_B13" chance="0.20" />
+			<item name="SNAFU_Tango6T_Snow" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>

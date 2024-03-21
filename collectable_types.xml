@@ -1,0 +1,2857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="Collectable_GPU">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_Bitcoin">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_SSD">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_SSDV2">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_RetroToy">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_USB">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_MemoryCard">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_TetrisToy">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_Intel">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_CrossNecklace">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PocketWatch">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_RAM">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_Polaroid_One">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_Polaroid_Two">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_Polaroid_Three">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_Polaroid_Four">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_GameBoy_DonkeyKong">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_GameBoy_Mario">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_GameBoy_Medarot">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_GameBoy_PokemonOne">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_GameBoy_PokemonTwo">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_GameBoy_Snakes">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_GameBoy_Tetris">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_GameBoy_Yoshi">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_GameBoy_Zelda">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_FloppyDisks_1999">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_FloppyDisks_April">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_FloppyDisks_MTV">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_SmartPhone_Black">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_SmartPhone_Blue">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_SmartPhone_Yellow">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_SmartPhone_Red">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_SmartPhone_Green">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="books" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Farm"/>
+	  <usage name="Town" />
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <!--Pokemons-->
+   <type name="Collectable_PokemonAlbum">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Pikachu">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Eevee">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_GrassEnergy">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Machamp">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Mew">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Charizard">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Jolteon">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_ShinyMewtwo">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Volcanion">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Abra">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Alakazam">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Arcanine">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Beedrill">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Bill">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Blastoise">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Bulbasaur">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Caterpie">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Chansey">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Charmander">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Charmeleon">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Clefairy">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_ClefairlyDoll">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_ComputerSearch">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Defender">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_DevolutionSpray">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Dewgong">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Diglett">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Doduo">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_DoubleColourlessEnergy">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Dragonair">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Dratini">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Drowzee">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Dugtrio">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Electabuzz">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Electrode">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_EnergyRemoval">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_EnergyRetrieval">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Farfetchd">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_FightingEnergy">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_FireEnergy">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_FullHeal">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Gastly">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Growlithe">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_GustOfWind">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Gyarados">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Haunter">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Hitmonchan">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_ImposterProfessorOak">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_ItemFinder">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Ivysaur">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Jynx">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Kadabra">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Kakuna">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Koffing">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Lass">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Machoke">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Machop">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Magikarp">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Magmar">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Magnemite">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Magneton">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Maintenance">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Metapod">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Mewtwo">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Nidoking">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Nidoran">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Nidorino">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Ninetales">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Onix">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Pidgeotto">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Pidgey">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_PikachuBS">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Pluspower">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Pokedex">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Breeder">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Center">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Flute">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Trader">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Poliwag">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Poliwhirl">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Poliwrath">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>900</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Ponyta">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Porygon">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Potion">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_ProfessorOakBase">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_PsychicEnergy">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Raichu">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Raticate">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Rattata">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Revive">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Sandshrew">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_ScoopUp">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Seel">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Squirtle">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Starmie">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Staryu">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_SuperEnergy">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_SuperPotion">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_SwitchBase">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Tangela">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Venusaur">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Voltorb">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Vulpix">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Wartortle">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_WaterEnergy">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Weedle">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+   <type name="Collectable_PokemonCard_Zapdos">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="shelves" />
+	  <tag name="floor"/>
+	  <tag name="ground"/>
+	  <usage name="Village" />
+	  <usage name="Industrial"/>
+	  <usage name="Office"/>
+	  <usage name="School"/>
+	  <usage name="Prison"/>
+	  <usage name="Lunapark"/>
+   </type>
+</types>
