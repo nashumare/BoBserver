@@ -1,0 +1,40 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CLOTHING",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "geb_BlueFishHat",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"geb_RedFishHat",
+				"geb_GreenFishHat",
+				"geb_PurpleFishHat"
+			]
+        },
+		{
+            "ClassName": "geb_RedFishShirt",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"geb_GreenFishShirt",
+				"geb_BlueFishShirt",
+				"geb_PurpleFishShirt"
+			]
+        }
+    ]
+}

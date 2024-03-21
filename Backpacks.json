@@ -1,0 +1,237 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BACKPACKS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "drybag_orange",
+      "MaxPriceThreshold": 60,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "drybag_yellow",
+        "drybag_blue",
+        "drybag_black",
+        "drybag_red",
+        "drybag_green"
+      ]
+    },
+    {
+      "ClassName": "taloonbag_blue",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 50,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "taloonbag_orange",
+        "taloonbag_violet",
+        "taloonbag_green"
+      ]
+    },
+    {
+      "ClassName": "smershbag",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "assaultbag_black",
+      "MaxPriceThreshold": 220,
+      "MinPriceThreshold": 110,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "assaultbag_green",
+        "assaultbag_ttsko"
+      ]
+    },
+    {
+      "ClassName": "huntingbag",
+      "MaxPriceThreshold": 260,
+      "MinPriceThreshold": 130,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tortillabag",
+      "MaxPriceThreshold": 360,
+      "MinPriceThreshold": 180,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "coyotebag_brown",
+      "MaxPriceThreshold": 360,
+      "MinPriceThreshold": 180,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "coyotebag_green"
+      ]
+    },
+    {
+      "ClassName": "mountainbag_red",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mountainbag_blue",
+        "mountainbag_orange",
+        "mountainbag_green"
+      ]
+    },
+    {
+      "ClassName": "alicebag_green",
+      "MaxPriceThreshold": 800,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "alicebag_black",
+        "alicebag_camo"
+      ]
+    },
+    {
+      "ClassName": "Paragon_WhaleBag_Blue",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_WhaleBag_Grey"
+      ]
+    },
+    {
+      "ClassName": "Paragon_US_Military_Black",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_US_Military_Blue",
+        "Paragon_US_Military_Desert",
+        "Paragon_US_Military_Green"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Duffle_Black",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Duffle_Blue",
+        "Paragon_Duffle_Desert",
+        "Paragon_Duffle_Green"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Deployment_Bag_Black",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Deployment_Bag_WL",
+        "Paragon_Deployment_Bag_Desert",
+        "Paragon_Deployment_Bag_Desert_Camo",
+        "Paragon_Deployment_Bag_Green"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Tactical_Bag_Black",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Tactical_Bag_Red",
+        "Paragon_Tactical_Bag_Tan",
+        "Paragon_Tactical_Bag_Blue",
+        "Paragon_Tactical_Bag_Green"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Compact_Black",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Compact_Blue",
+        "Paragon_Compact_Desert",
+        "Paragon_Compact_Green",
+        "Paragon_Compact_Grey"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Rush_24_Bag_Black",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Rush_24_Bag_Blue",
+        "Paragon_Rush_24_Bag_Desert",
+        "Paragon_Rush_24_Bag_Green"
+      ]
+    }
+  ]
+}

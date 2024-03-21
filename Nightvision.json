@@ -1,0 +1,140 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Nightvision Goggles",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "NVG_OG3",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Battery9V"
+      ],
+      "Variants": [
+        "NVG_OG9",
+        "NVG_OG11",
+        "NVG_OG13",
+        "NVG_OG18",
+        "NVG_OG19"
+      ]
+    },
+    {
+      "ClassName": "NVG_OG21",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Battery9V"
+      ],
+      "Variants": [
+        "NVG_OG22",
+        "NVG_OG23",
+        "NVG_OG24",
+        "NVG_OG26",
+        "NVG_OG27"
+      ]
+    },
+    {
+      "ClassName": "NVG_OG28",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Battery9V"
+      ],
+      "Variants": [
+        "NVG_OG36",
+        "NVG_OG34",
+        "NVG_OG32",
+        "NVG_OG26",
+        "NVG_OG27"
+      ]
+    },
+    {
+      "ClassName": "NVG_OG38",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Battery9V"
+      ],
+      "Variants": [
+        "NVG_OG39",
+        "NVG_OG40",
+        "NVG_OG41",
+        "NVG_OG43",
+        "NVG_OG44"
+      ]
+    },
+    {
+      "ClassName": "NVG_OG45",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Battery9V"
+      ],
+      "Variants": [
+        "NVG_OG46",
+        "NVG_OG47",
+        "NVG_OG48",
+        "NVG_OG50",
+        "NVG_OG51"
+      ]
+    },
+    {
+      "ClassName": "NVG_OG52",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Battery9V"
+      ],
+      "Variants": [
+        "NVG_OG53",
+        "NVG_OG54",
+        "NVG_OG55",
+        "NVG_OG56",
+        "NVG_OG57"
+      ]
+    },
+    {
+      "ClassName": "NVG_OG58",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Battery9V"
+      ],
+      "Variants": [
+        "NVG_OG59",
+        "NVG_OG60"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "m_Version": 12,
+  "DisplayName": "HEAD GEAR",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "cowboyhat_brown",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 40,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cowboyhat_black",
+        "cowboyhat_darkbrown",
+        "cowboyhat_green",
+        "expansioncowboyhatgator",
+        "expansioncowboyhatsnake",
+        "expansioncowboyhatrattlesnake"
+      ]
+    },
+    {
+      "ClassName": "militaryberet_chdkz",
+      "MaxPriceThreshold": 52,
+      "MinPriceThreshold": 52,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "militaryberet_red",
+        "militaryberet_un",
+        "militaryberet_cdf",
+        "militaryberet_nz"
+      ]
+    },
+    {
+      "ClassName": "beaniehat_pink",
+      "MaxPriceThreshold": 60,
+      "MinPriceThreshold": 60,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "beaniehat_beige",
+        "beaniehat_blue",
+        "beaniehat_brown",
+        "beaniehat_grey",
+        "beaniehat_red",
+        "beaniehat_black",
+        "beaniehat_green"
+      ]
+    },
+    {
+      "ClassName": "booniehat_blue",
+      "MaxPriceThreshold": 32,
+      "MinPriceThreshold": 32,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "booniehat_navyblue",
+        "booniehat_orange",
+        "booniehat_red",
+        "booniehat_black",
+        "booniehat_tan",
+        "booniehat_olive",
+        "booniehat_dpm",
+        "booniehat_dubok",
+        "booniehat_flecktran"
+      ]
+    },
+    {
+      "ClassName": "baseballcap_cmmg_pink",
+      "MaxPriceThreshold": 24,
+      "MinPriceThreshold": 24,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "baseballcap_pink",
+        "baseballcap_blue",
+        "baseballcap_beige",
+        "baseballcap_red",
+        "baseballcap_cmmg_black",
+        "baseballcap_black",
+        "baseballcap_olive",
+        "baseballcap_camo"
+      ]
+    },
+    {
+      "ClassName": "greathelm",
+      "MaxPriceThreshold": 440,
+      "MinPriceThreshold": 440,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mich2001helmet",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansionmich2001desert"
+      ]
+    },
+    {
+      "ClassName": "gorkahelmetvisor",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "gorkahelmet",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 480,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "gorkahelmetvisor"
+      ],
+      "Variants": [
+        "gorkahelmet_black"
+      ]
+    },
+    {
+      "ClassName": "ssh68helmet",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ballistichelmet_un",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ballistichelmet_black",
+        "ballistichelmet_green"
+      ]
+    }
+  ]
+}

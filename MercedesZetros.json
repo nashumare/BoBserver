@@ -1,0 +1,62 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Mercedes Zetros",
+  "Icon": "Car",
+  "Color": "FF3800",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "MercedesZetros",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MercedesZetros_Driver",
+        "MercedesZetros_CoDriver",
+        "MercedesZetros_Hood",
+        "MercedesZetros_Cover",
+        "CanisterGasoline",
+        "MercedesZetros_FrontWheel",
+        "MercedesZetros_FrontWheel",
+        "MercedesZetros_RearWheel",
+        "MercedesZetros_RearWheel"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MercedesZetros_Desert",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MercedesZetros_Driver_Desert",
+        "MercedesZetros_CoDriver_Desert",
+        "MercedesZetros_Hood_Desert",
+        "MercedesZetros_DesertCover",
+        "CanisterGasoline",
+        "MercedesZetros_FrontWheel_Desert",
+        "MercedesZetros_FrontWheel_Desert",
+        "MercedesZetros_RearWheel_Desert",
+        "MercedesZetros_RearWheel_Desert"
+      ],
+      "Variants": []
+    }
+  ]
+}

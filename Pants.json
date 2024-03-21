@@ -1,0 +1,223 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PANTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "tracksuitpants_black",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "tracksuitpants_blue",
+        "tracksuitpants_green",
+        "tracksuitpants_red",
+        "tracksuitpants_lightblue"
+      ]
+    },
+    {
+      "ClassName": "policepants",
+      "MaxPriceThreshold": 56,
+      "MinPriceThreshold": 28,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cargopants_beige",
+      "MaxPriceThreshold": 70,
+      "MinPriceThreshold": 35,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cargopants_black",
+        "cargopants_blue",
+        "cargopants_green",
+        "cargopants_grey"
+      ]
+    },
+    {
+      "ClassName": "jeans_blue",
+      "MaxPriceThreshold": 80,
+      "MinPriceThreshold": 40,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "jeans_brown",
+        "jeans_grey",
+        "jeans_bluedark",
+        "jeans_green",
+        "jeans_black"
+      ]
+    },
+    {
+      "ClassName": "ttskopants",
+      "MaxPriceThreshold": 110,
+      "MinPriceThreshold": 55,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bdupants",
+      "MaxPriceThreshold": 130,
+      "MinPriceThreshold": 65,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "usmcpants_desert",
+      "MaxPriceThreshold": 130,
+      "MinPriceThreshold": 65,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "usmcpants_woodland"
+      ]
+    },
+    {
+      "ClassName": "policepantsorel",
+      "MaxPriceThreshold": 140,
+      "MinPriceThreshold": 70,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hunterpants_winter",
+      "MaxPriceThreshold": 180,
+      "MinPriceThreshold": 90,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "hunterpants_autumn",
+        "hunterpants_brown",
+        "hunterpants_spring",
+        "hunterpants_summer"
+      ]
+    },
+    {
+      "ClassName": "gorkapants_summer",
+      "MaxPriceThreshold": 260,
+      "MinPriceThreshold": 130,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "gorkapants_autumn",
+        "gorkapants_flat",
+        "gorkapants_pautrev"
+      ]
+    },
+    {
+      "ClassName": "Paragon_TacPants_Black",
+      "MaxPriceThreshold": 2350,
+      "MinPriceThreshold": 2350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacPants_Blue",
+        "Paragon_TacPants_Desert",
+        "Paragon_TacPants_Green",
+        "Paragon_TacPants_White",
+        "Paragon_TacPants_Camo",
+        "Paragon_TacPants_Fatigue",
+        "Paragon_TacPants_Navy",
+        "Paragon_TacPants_Black_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_CombatPants_Black",
+      "MaxPriceThreshold": 2350,
+      "MinPriceThreshold": 2350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_CombatPants_Blue",
+        "Paragon_CombatPants_Desert",
+        "Paragon_CombatPants_Green",
+        "Paragon_CombatPants_White",
+        "Paragon_CombatPants_Camo",
+        "Paragon_CombatPants_Fatigue",
+        "Paragon_CombatPants_Navy",
+        "Paragon_CombatPants_Black_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_CargoPants_Black",
+      "MaxPriceThreshold": 2350,
+      "MinPriceThreshold": 2350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_CargoPants_White",
+        "Paragon_CargoPants_Tan",
+        "Paragon_CargoPants_Green",
+        "Paragon_CargoPants_Blue",
+        "Paragon_CargoPants_Camo",
+        "Paragon_CargoPants_Black_Wl",
+        "Paragon_CargoPants_Stars"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Shorts_Black",
+      "MaxPriceThreshold": 2350,
+      "MinPriceThreshold": 2350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Shorts_White",
+        "Paragon_Shorts_Yellow",
+        "Paragon_Shorts_Blue",
+        "Paragon_Shorts_Red",
+        "Paragon_Shorts_Green"
+      ]
+    }
+  ]
+}

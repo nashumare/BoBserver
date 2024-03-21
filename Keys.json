@@ -1,0 +1,45 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Keys and Tags",
+  "Icon": "Car",
+  "Color": "FFBF00",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "MCK_CarKey_Base",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+			"MCK_CarKey_Blue",
+			"MCK_CarKey_Green",
+			"MCK_CarKey_White",
+			"MCK_CarKey_Yellow",
+			"MCK_CarKey_Red"
+		]
+    },
+    {
+      "ClassName": "MCK_CarKeyTag_Black",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 50,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+			"MCK_CarKeyTag_Blue",
+			"MCK_CarKeyTag_Green",
+			"MCK_CarKeyTag_Grey",
+			"MCK_CarKeyTag_Red",
+			"MCK_CarKeyTag_Yellow",
+			"MCK_CarKeyTag_White"
+		]
+    }
+  ]
+}

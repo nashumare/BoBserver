@@ -1,0 +1,89 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BOATS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "RFWC_Whaler",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "RFWC_CarpBoat",
+      "MaxPriceThreshold": 17000,
+      "MinPriceThreshold": 17000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": [
+        "RFWC_CarpBoat_Rusty"
+      ]
+    },
+    {
+      "ClassName": "RFWC_Zodiac_Orange",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 35000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": [
+        "RFWC_Zodiac_Black"
+      ]
+    },
+    {
+      "ClassName": "RFWC_DragBoat_Black",
+      "MaxPriceThreshold": 72000,
+      "MinPriceThreshold": 72000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": [
+        "RFWC_DragBoat_Red"
+      ]
+    },
+    {
+      "ClassName": "RFWC_Seadoo_Camo",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "TruckBattery",
+        "SparkPlug"
+      ],
+      "Variants": [
+        "RFWC_Seadoo_Orange",
+        "RFWC_Seadoo_Green"
+      ]
+    }
+  ]
+}

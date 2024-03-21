@@ -1,0 +1,75 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Shoulder Buddy & Floaties",
+    "Icon": "Fox",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Paragon_AmongUs_Ghost_Red",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Paragon_AmongUs_Ghost_Orange",
+				"Paragon_AmongUs_Ghost_Yellow",
+				"Paragon_AmongUs_Ghost_Green",
+				"Paragon_AmongUs_Ghost_Blue",
+				"Paragon_AmongUs_Ghost_Purple",
+				"Paragon_AmongUs_Ghost_Pink",
+				"Paragon_AmongUs_Ghost_Black",
+				"Paragon_AmongUs_Ghost_White"
+			]
+        },
+        {
+            "ClassName": "Paragon_BooGhost",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Paragon_BooGhost_Black"
+			]
+        },
+		{
+            "ClassName": "Paragon_JellyFish",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Paragon_JellyFish_Purple"
+			]
+        },
+		{
+            "ClassName": "Paragon_Duck_Floatie",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Paragon_Unicorn_Floatie",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

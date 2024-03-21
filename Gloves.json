@@ -1,0 +1,129 @@
+{
+  "m_Version": 12,
+  "DisplayName": "GLOVES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "tacticalgloves_black",
+      "MaxPriceThreshold": 70,
+      "MinPriceThreshold": 35,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "tacticalgloves_beige",
+        "tacticalgloves_green",
+        "expansiontacticalglovesdesert"
+      ]
+    },
+    {
+      "ClassName": "Gloves_OG3",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Gloves_OG9",
+        "Gloves_OG11",
+        "Gloves_OG13",
+        "Gloves_OG18",
+        "Gloves_OG19",
+        "Gloves_OG21",
+        "Gloves_OG22",
+        "Gloves_OG23",
+        "Gloves_OG24",
+        "Gloves_OG26"
+      ]
+    },
+    {
+      "ClassName": "Gloves_OG27",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Gloves_OG28",
+        "Gloves_OG29",
+        "Gloves_OG30",
+        "Gloves_OG32",
+        "Gloves_OG34",
+        "Gloves_OG36",
+        "Gloves_OG38",
+        "Gloves_OG39",
+        "Gloves_OG40",
+        "Gloves_OG41"
+      ]
+    },
+    {
+      "ClassName": "Gloves_OG43",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Gloves_OG44",
+        "Gloves_OG45",
+        "Gloves_OG46",
+        "Gloves_OG47",
+        "Gloves_OG48",
+        "Gloves_OG50",
+        "Gloves_OG38",
+        "Gloves_OG51",
+        "Gloves_OG52",
+        "Gloves_OG53"
+      ]
+    },
+    {
+      "ClassName": "Gloves_OG54",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Gloves_OG55",
+        "Gloves_OG56",
+        "Gloves_OG57",
+        "Gloves_OG58",
+        "Gloves_OG59",
+        "Gloves_OG60"
+      ]
+    },
+    {
+      "ClassName": "Paragon_TacticalGloves_Black",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacticalGloves_Black_WL",
+        "Paragon_TacticalGloves_Blue",
+        "Paragon_TacticalGloves_Desert",
+        "Paragon_TacticalGloves_Green",
+        "Paragon_TacticalGloves_Navy",
+        "Paragon_TacticalGloves_Fatigue",
+        "Paragon_TacticalGloves_WL",
+        "Paragon_TacticalGloves_White"
+      ]
+    }
+  ]
+}

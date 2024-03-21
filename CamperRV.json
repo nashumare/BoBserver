@@ -1,0 +1,33 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Camper RV",
+  "Icon": "Car",
+  "Color": "68FF00",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "CamperRV",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "CamperRVWheel_offroad",
+        "CamperRVWheel_offroad",
+        "CamperRVWheel_offroad",
+        "CamperRVWheel_offroad",
+        "CamperRVWheel_offroad",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "CamperRV_driver",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    }
+  ]
+}

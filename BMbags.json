@@ -1,0 +1,41 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Raid Bags",
+  "Icon": "Shield",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Paragon_RaidBag_Blue",
+      "MaxPriceThreshold": 350000,
+      "MinPriceThreshold": 350000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_RaidBag_Black",
+        "Paragon_RaidBag_Desert",
+        "Paragon_RaidBag_Green",
+        "Paragon_RaidBag_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_GunBag_Black",
+      "MaxPriceThreshold": 200000,
+      "MinPriceThreshold": 200000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_GunBag_Blue",
+        "Paragon_GunBag_Desert",
+        "Paragon_GunBag_Green"
+      ]
+    }
+  ]
+}

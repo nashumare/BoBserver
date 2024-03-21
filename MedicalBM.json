@@ -1,0 +1,44 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Medicals",
+  "Icon": "Pills",
+  "Color": "FF931C",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "AX_AluSplint",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "AX_GoldenStar",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_IFAK_Desert",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": 5,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+			"Paragon_IFAK_Green",
+			"Paragon_IFAK_Black",
+			"Paragon_IFAK_Blue",
+			"Paragon_IFAK_White"
+		]
+    }
+  ]
+}

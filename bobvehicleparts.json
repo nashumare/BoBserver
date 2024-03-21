@@ -1,0 +1,1714 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BoB Car Parts",
+  "Icon": "Car",
+  "Color": "FFBF00",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Candy_ChevySilver_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_ChevySilver_Wheel_Yellow",
+        "Candy_ChevySilver_Wheel_Red",
+        "Candy_ChevySilver_Wheel_Blue",
+        "Candy_ChevySilver_Wheel_White",
+        "Candy_ChevySilver_Wheel_Brown",
+        "Candy_ChevySilver_Wheel_Grey",
+        "Candy_ChevySilver_Wheel_Pink",
+        "Candy_ChevySilver_Wheel_Chrome"
+      ]
+    },
+    {
+      "ClassName": "Candy_ChevySilver_Doors_Hood",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_ChevySilver_Doors_Hood_Red",
+        "Candy_ChevySilver_Doors_Hood_Blue",
+        "Candy_ChevySilver_Doors_Hood_White",
+        "Candy_ChevySilver_Doors_Hood_Yellow",
+        "Candy_ChevySilver_Doors_Hood_Brown",
+        "Candy_ChevySilver_Doors_Hood_Grey",
+        "Candy_ChevySilver_Doors_Hood_Pink",
+        "Candy_ChevySilver_Doors_Hood_Rust",
+        "Candy_ChevySilver_Doors_Hood_Camo"
+      ]
+    },
+    {
+      "ClassName": "Candy_ChevySilver_Doors_Trunk",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_ChevySilver_Doors_Trunk_Red",
+        "Candy_ChevySilver_Doors_Trunk_Blue",
+        "Candy_ChevySilver_Doors_Trunk_White",
+        "Candy_ChevySilver_Doors_Trunk_Yellow",
+        "Candy_ChevySilver_Doors_Trunk_Brown",
+        "Candy_ChevySilver_Doors_Trunk_Grey",
+        "Candy_ChevySilver_Doors_Trunk_Pink",
+        "Candy_ChevySilver_Doors_Trunk_Rust",
+        "Candy_ChevySilver_Doors_Trunk_Camo"
+      ]
+    },
+    {
+      "ClassName": "Candy_ChevySilver_Doors_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_ChevySilver_Doors_Driver_Red",
+        "Candy_ChevySilver_Doors_Driver_Blue",
+        "Candy_ChevySilver_Doors_Driver_White",
+        "Candy_ChevySilver_Doors_Driver_Yellow",
+        "Candy_ChevySilver_Doors_Driver_Brown",
+        "Candy_ChevySilver_Doors_Driver_Grey",
+        "Candy_ChevySilver_Doors_Driver_Pink",
+        "Candy_ChevySilver_Doors_Driver_Rust",
+        "Candy_ChevySilver_Doors_Driver_Camo"
+      ]
+    },
+    {
+      "ClassName": "Candy_ChevySilver_Doors_CoDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_ChevySilver_Doors_CoDriver_Red",
+        "Candy_ChevySilver_Doors_CoDriver_Blue",
+        "Candy_ChevySilver_Doors_CoDriver_White",
+        "Candy_ChevySilver_Doors_CoDriver_Yellow",
+        "Candy_ChevySilver_Doors_CoDriver_Brown",
+        "Candy_ChevySilver_Doors_CoDriver_Grey",
+        "Candy_ChevySilver_Doors_CoDriver_Pink",
+        "Candy_ChevySilver_Doors_CoDriver_Rust",
+        "Candy_ChevySilver_Doors_CoDriver_Camo"
+      ]
+    },
+    {
+      "ClassName": "Candy_ChevySilver_Doors_Cargo1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_ChevySilver_Doors_Cargo1_Red",
+        "Candy_ChevySilver_Doors_Cargo1_Blue",
+        "Candy_ChevySilver_Doors_Cargo1_White",
+        "Candy_ChevySilver_Doors_Cargo1_Yellow",
+        "Candy_ChevySilver_Doors_Cargo1_Brown",
+        "Candy_ChevySilver_Doors_Cargo1_Grey",
+        "Candy_ChevySilver_Doors_Cargo1_Pink",
+        "Candy_ChevySilver_Doors_Cargo1_Rust",
+        "Candy_ChevySilver_Doors_Cargo1_Camo"
+      ]
+    },
+    {
+      "ClassName": "Candy_ChevySilver_Doors_Cargo2",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_ChevySilver_Doors_Cargo2_Red",
+        "Candy_ChevySilver_Doors_Cargo2_Blue",
+        "Candy_ChevySilver_Doors_Cargo2_White",
+        "Candy_ChevySilver_Doors_Cargo2_Yellow",
+        "Candy_ChevySilver_Doors_Cargo2_Brown",
+        "Candy_ChevySilver_Doors_Cargo2_Grey",
+        "Candy_ChevySilver_Doors_Cargo2_Pink",
+        "Candy_ChevySilver_Doors_Cargo2_Rust",
+        "Candy_ChevySilver_Doors_Cargo2_Camo"
+      ]
+    },
+    {
+      "ClassName": "Candy_GMCSierra_Doors_Driver_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_GMCSierra_Doors_Driver",
+        "Candy_GMCSierra_Doors_Driver_Blue",
+        "Candy_GMCSierra_Doors_Driver_White",
+        "Candy_GMCSierra_Doors_Driver_Yellow",
+        "Candy_GMCSierra_Doors_Driver_Brown",
+        "Candy_GMCSierra_Doors_Driver_Black",
+        "Candy_GMCSierra_Doors_Driver_Pink",
+        "Candy_GMCSierra_Doors_Driver_Rust"
+      ]
+    },
+    {
+      "ClassName": "Candy_GMCSierra_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_GMCSierra_Wheel_Yellow",
+        "Candy_GMCSierra_Wheel_Red",
+        "Candy_GMCSierra_Wheel_Blue",
+        "Candy_GMCSierra_Wheel_White",
+        "Candy_GMCSierra_Wheel_Brown",
+        "Candy_GMCSierra_Wheel_Black",
+        "Candy_GMCSierra_Wheel_Pink",
+        "Candy_GMCSierra_Wheel_Chrome",
+        "Candy_GMCSierra_Wheel_Rust"
+      ]
+    },
+    {
+      "ClassName": "Candy_GMCSierra_Doors_CoDriver_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_GMCSierra_Doors_CoDriver",
+        "Candy_GMCSierra_Doors_CoDriver_Blue",
+        "Candy_GMCSierra_Doors_CoDriver_White",
+        "Candy_GMCSierra_Doors_CoDriver_Yellow",
+        "Candy_GMCSierra_Doors_CoDriver_Brown",
+        "Candy_GMCSierra_Doors_CoDriver_Black",
+        "Candy_GMCSierra_Doors_CoDriver_Pink",
+        "Candy_GMCSierra_Doors_CoDriver_Rust"
+      ]
+    },
+    {
+      "ClassName": "Candy_GMCSierra_Doors_Cargo1_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_GMCSierra_Doors_Cargo1",
+        "Candy_GMCSierra_Doors_Cargo1_Blue",
+        "Candy_GMCSierra_Doors_Cargo1_White",
+        "Candy_GMCSierra_Doors_Cargo1_Yellow",
+        "Candy_GMCSierra_Doors_Cargo1_Brown",
+        "Candy_GMCSierra_Doors_Cargo1_Black",
+        "Candy_GMCSierra_Doors_Cargo1_Pink",
+        "Candy_GMCSierra_Doors_Cargo1_Rust"
+      ]
+    },
+    {
+      "ClassName": "Candy_GMCSierra_Doors_Cargo2_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_GMCSierra_Doors_Cargo2",
+        "Candy_GMCSierra_Doors_Cargo2_Blue",
+        "Candy_GMCSierra_Doors_Cargo2_White",
+        "Candy_GMCSierra_Doors_Cargo2_Yellow",
+        "Candy_GMCSierra_Doors_Cargo2_Brown",
+        "Candy_GMCSierra_Doors_Cargo2_Black",
+        "Candy_GMCSierra_Doors_Cargo2_Pink",
+        "Candy_GMCSierra_Doors_Cargo2_Rust"
+      ]
+    },
+    {
+      "ClassName": "Candy_GMCSierra_Doors_Hood_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_GMCSierra_Doors_Hood",
+        "Candy_GMCSierra_Doors_Hood_Blue",
+        "Candy_GMCSierra_Doors_Hood_White",
+        "Candy_GMCSierra_Doors_Hood_Yellow",
+        "Candy_GMCSierra_Doors_Hood_Brown",
+        "Candy_GMCSierra_Doors_Hood_Black",
+        "Candy_GMCSierra_Doors_Hood_Pink",
+        "Candy_GMCSierra_Doors_Hood_Rust"
+      ]
+    },
+    {
+      "ClassName": "Candy_GMCSierra_Doors_Trunk_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_GMCSierra_Doors_Trunk",
+        "Candy_GMCSierra_Doors_Trunk_Blue",
+        "Candy_GMCSierra_Doors_Trunk_White",
+        "Candy_GMCSierra_Doors_Trunk_Yellow",
+        "Candy_GMCSierra_Doors_Trunk_Brown",
+        "Candy_GMCSierra_Doors_Trunk_Black",
+        "Candy_GMCSierra_Doors_Trunk_Pink",
+        "Candy_GMCSierra_Doors_Trunk_Rust"
+      ]
+    },
+    {
+      "ClassName": "Candy_OshkoshApoc_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_OshkoshApoc_Wheel_Black"
+      ]
+    },
+    {
+      "ClassName": "Candy_OshkoshApoc_Doors_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_OshkoshApoc_Doors_Driver_Black",
+        "Candy_OshkoshApoc_Doors_Driver_Green",
+        "Candy_OshkoshApoc_Doors_Driver_Red"
+      ]
+    },
+    {
+      "ClassName": "Candy_OshkoshApoc_Doors_Trunk_Black",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_OshkoshApoc_Doors_Trunk",
+        "Candy_OshkoshApoc_Doors_Trunk_Green",
+        "Candy_OshkoshApoc_Doors_Trunk_Red"
+      ]
+    },
+    {
+      "ClassName": "Candy_OshkoshApoc_Doors_CoDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_OshkoshApoc_Doors_CoDriver_Black",
+        "Candy_OshkoshApoc_Doors_CoDriver_Green",
+        "Candy_OshkoshApoc_Doors_CoDriver_Red"
+      ]
+    },
+    {
+      "ClassName": "Candy_OshkoshApoc_Doors_Cargo1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_OshkoshApoc_Doors_Cargo1_Black",
+        "Candy_OshkoshApoc_Doors_Cargo1_Green",
+        "Candy_OshkoshApoc_Doors_Cargo1_Red"
+      ]
+    },
+    {
+      "ClassName": "Candy_OshkoshApoc_Doors_Cargo2",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_OshkoshApoc_Doors_Cargo2_Black",
+        "Candy_OshkoshApoc_Doors_Cargo2_Green",
+        "Candy_OshkoshApoc_Doors_Cargo2_Red"
+      ]
+    },
+    {
+      "ClassName": "Candy_OshkoshApoc_Doors_Hood",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_OshkoshApoc_Doors_Hood_Black",
+        "Candy_OshkoshApoc_Doors_Hood_Green",
+        "Candy_OshkoshApoc_Doors_Hood_Red"
+      ]
+    },
+    {
+      "ClassName": "CamperRVWheel_offroad",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CamperRV_driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Candy_MBX6x6Carlex_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_MBX6x6Carlex_Wheel_Yellow",
+        "Candy_MBX6x6Carlex_Wheel_Red",
+        "Candy_MBX6x6Carlex_Wheel_Blue",
+        "Candy_MBX6x6Carlex_Wheel_White",
+        "Candy_MBX6x6Carlex_Wheel_Brown",
+        "Candy_MBX6x6Carlex_Wheel_Grey",
+        "Candy_MBX6x6Carlex_Wheel_Pink",
+        "Candy_MBX6x6Carlex_Wheel_Chrome"
+      ]
+    },
+    {
+      "ClassName": "Candy_MBX6x6Carlex_Doors_Driver_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_MBX6x6Carlex_Doors_Driver",
+        "Candy_MBX6x6Carlex_Doors_Driver_Blue",
+        "Candy_MBX6x6Carlex_Doors_Driver_White",
+        "Candy_MBX6x6Carlex_Doors_Driver_Yellow",
+        "Candy_MBX6x6Carlex_Doors_Driver_Brown",
+        "Candy_MBX6x6Carlex_Doors_Driver_Grey",
+        "Candy_MBX6x6Carlex_Doors_Driver_Pink",
+        "Candy_MBX6x6Carlex_Doors_Driver_Rust",
+        "Candy_MBX6x6Carlex_Doors_Driver_Camo"
+      ]
+    },
+    {
+      "ClassName": "Candy_MBX6x6Carlex_Doors_CoDriver_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_MBX6x6Carlex_Doors_CoDriver",
+        "Candy_MBX6x6Carlex_Doors_CoDriver_Blue",
+        "Candy_MBX6x6Carlex_Doors_CoDriver_White",
+        "Candy_MBX6x6Carlex_Doors_CoDriver_Yellow",
+        "Candy_MBX6x6Carlex_Doors_CoDriver_Brown",
+        "Candy_MBX6x6Carlex_Doors_CoDriver_Grey",
+        "Candy_MBX6x6Carlex_Doors_CoDriver_Pink",
+        "Candy_MBX6x6Carlex_Doors_CoDriver_Rust",
+        "Candy_MBX6x6Carlex_Doors_CoDriver_Camo"
+      ]
+    },
+    {
+      "ClassName": "Candy_MBX6x6Carlex_Doors_Cargo1_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_MBX6x6Carlex_Doors_Cargo1",
+        "Candy_MBX6x6Carlex_Doors_Cargo1_Blue",
+        "Candy_MBX6x6Carlex_Doors_Cargo1_White",
+        "Candy_MBX6x6Carlex_Doors_Cargo1_Yellow",
+        "Candy_MBX6x6Carlex_Doors_Cargo1_Brown",
+        "Candy_MBX6x6Carlex_Doors_Cargo1_Grey",
+        "Candy_MBX6x6Carlex_Doors_Cargo1_Pink",
+        "Candy_MBX6x6Carlex_Doors_Cargo1_Rust",
+        "Candy_MBX6x6Carlex_Doors_Cargo1_Camo"
+      ]
+    },
+    {
+      "ClassName": "Candy_MBX6x6Carlex_Doors_Cargo2_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_MBX6x6Carlex_Doors_Cargo2",
+        "Candy_MBX6x6Carlex_Doors_Cargo2_Blue",
+        "Candy_MBX6x6Carlex_Doors_Cargo2_White",
+        "Candy_MBX6x6Carlex_Doors_Cargo2_Yellow",
+        "Candy_MBX6x6Carlex_Doors_Cargo2_Brown",
+        "Candy_MBX6x6Carlex_Doors_Cargo2_Grey",
+        "Candy_MBX6x6Carlex_Doors_Cargo2_Pink",
+        "Candy_MBX6x6Carlex_Doors_Cargo2_Rust",
+        "Candy_MBX6x6Carlex_Doors_Cargo2_Camo"
+      ]
+    },
+    {
+      "ClassName": "Candy_MBX6x6Carlex_Doors_Hood_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_MBX6x6Carlex_Doors_Hood",
+        "Candy_MBX6x6Carlex_Doors_Hood_Blue",
+        "Candy_MBX6x6Carlex_Doors_Hood_White",
+        "Candy_MBX6x6Carlex_Doors_Hood_Yellow",
+        "Candy_MBX6x6Carlex_Doors_Hood_Brown",
+        "Candy_MBX6x6Carlex_Doors_Hood_Grey",
+        "Candy_MBX6x6Carlex_Doors_Hood_Pink",
+        "Candy_MBX6x6Carlex_Doors_Hood_Rust",
+        "Candy_MBX6x6Carlex_Doors_Hood_Camo"
+      ]
+    },
+    {
+      "ClassName": "Candy_MBX6x6Carlex_Doors_Trunk_Red",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_MBX6x6Carlex_Doors_Trunk",
+        "Candy_MBX6x6Carlex_Doors_Trunk_Blue",
+        "Candy_MBX6x6Carlex_Doors_Trunk_White",
+        "Candy_MBX6x6Carlex_Doors_Trunk_Yellow",
+        "Candy_MBX6x6Carlex_Doors_Trunk_Brown",
+        "Candy_MBX6x6Carlex_Doors_Trunk_Grey",
+        "Candy_MBX6x6Carlex_Doors_Trunk_Pink",
+        "Candy_MBX6x6Carlex_Doors_Trunk_Rust",
+        "Candy_MBX6x6Carlex_Doors_Trunk_Camo"
+      ]
+    },
+    {
+      "ClassName": "Ford_F150_Raptor_doors_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_F150_Raptor_doors_Driver_white",
+        "Ford_F150_Raptor_doors_Driver_black",
+        "Ford_F150_Raptor_doors_Driver_blue",
+        "Ford_F150_Raptor_doors_Driver_khaki",
+        "Ford_F150_Raptor_doors_Driver_grey"
+      ]
+    },
+    {
+      "ClassName": "Ford_F150_Raptor_doors_coDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_F150_Raptor_doors_coDriver_white",
+        "Ford_F150_Raptor_doors_coDriver_black",
+        "Ford_F150_Raptor_doors_coDriver_blue",
+        "Ford_F150_Raptor_doors_coDriver_khaki",
+        "Ford_F150_Raptor_doors_coDriver_grey"
+      ]
+    },
+    {
+      "ClassName": "Ford_F150_Raptor_doors_cargo1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_F150_Raptor_doors_cargo1_white",
+        "Ford_F150_Raptor_doors_cargo1_black",
+        "Ford_F150_Raptor_doors_cargo1_blue",
+        "Ford_F150_Raptor_doors_cargo1_khaki",
+        "Ford_F150_Raptor_doors_cargo1_grey"
+      ]
+    },
+    {
+      "ClassName": "Ford_F150_Raptor_doors_cargo2",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_F150_Raptor_doors_cargo2_white",
+        "Ford_F150_Raptor_doors_cargo2_black",
+        "Ford_F150_Raptor_doors_cargo2_blue",
+        "Ford_F150_Raptor_doors_cargo2_khaki",
+        "Ford_F150_Raptor_doors_cargo2_grey"
+      ]
+    },
+    {
+      "ClassName": "Ford_F150_Raptor_doors_hood",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_F150_Raptor_doors_hood_white",
+        "Ford_F150_Raptor_doors_hood_black",
+        "Ford_F150_Raptor_doors_hood_blue",
+        "Ford_F150_Raptor_doors_hood_khaki",
+        "Ford_F150_Raptor_doors_hood_grey"
+      ]
+    },
+    {
+      "ClassName": "Ford_F150_Raptor_doors_trunk1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_F150_Raptor_doors_trunk1_white",
+        "Ford_F150_Raptor_doors_trunk1_black",
+        "Ford_F150_Raptor_doors_trunk1_blue",
+        "Ford_F150_Raptor_doors_trunk1_khaki",
+        "Ford_F150_Raptor_doors_trunk1_grey"
+      ]
+    },
+    {
+      "ClassName": "Ford_F150_Raptor_Wheel2",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_F150_Raptor_Wheel2"
+      ]
+    },
+    {
+      "ClassName": "DR_PickUp_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DR_PickUp_Wheel_black",
+        "DR_PickUp_Wheel_chrome"
+      ]
+    },
+    {
+      "ClassName": "DR_PickUp_doors_trunk",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DR_PickUp_doors_trunk_white",
+        "DR_PickUp_doors_trunk_black",
+        "DR_PickUp_doors_trunk_blue",
+        "DR_PickUp_doors_trunk_green"
+      ]
+    },
+    {
+      "ClassName": "DR_PickUp_doors_hood",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DR_PickUp_doors_hood_white",
+        "DR_PickUp_doors_hood_black",
+        "DR_PickUp_doors_hood_blue",
+        "DR_PickUp_doors_hood_green",
+        "DR_PickUp_doors_hood_stock",
+        "DR_PickUp_doors_hood_stock_white",
+        "DR_PickUp_doors_hood_stock_black",
+        "DR_PickUp_doors_hood_stock_blue",
+        "DR_PickUp_doors_hood_stock_green"
+      ]
+    },
+    {
+      "ClassName": "DR_PickUp_doors_cargo2",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DR_PickUp_doors_cargo2_white",
+        "DR_PickUp_doors_cargo2_black",
+        "DR_PickUp_doors_cargo2_blue",
+        "DR_PickUp_doors_cargo2_green"
+      ]
+    },
+    {
+      "ClassName": "DR_PickUp_doors_cargo1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DR_PickUp_doors_cargo1_white",
+        "DR_PickUp_doors_cargo1_black",
+        "DR_PickUp_doors_cargo1_blue",
+        "DR_PickUp_doors_cargo1_green"
+      ]
+    },
+    {
+      "ClassName": "DR_PickUp_doors_coDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DR_PickUp_doors_coDriver_white",
+        "DR_PickUp_doors_coDriver_black",
+        "DR_PickUp_doors_coDriver_blue",
+        "DR_PickUp_doors_coDriver_green"
+      ]
+    },
+    {
+      "ClassName": "DR_PickUp_doors_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "DR_PickUp_doors_Driver_white",
+        "DR_PickUp_doors_Driver_black",
+        "DR_PickUp_doors_Driver_blue",
+        "DR_PickUp_doors_Driver_green"
+      ]
+    },
+    {
+      "ClassName": "FordBronco_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FordBronco_Trunk",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordBronco_TrunkRust"
+      ]
+    },
+    {
+      "ClassName": "FordBronco_CoDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordBronco_CoDriverRust"
+      ]
+    },
+    {
+      "ClassName": "FordBronco_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordBronco_DriverRust"
+      ]
+    },
+    {
+      "ClassName": "Ford_Bronco_Rest_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_Bronco_Rest_Wheel_black",
+        "Ford_Bronco_Rest_Wheel_blue",
+        "Ford_Bronco_Rest_Wheel_grey",
+        "Ford_Bronco_Rest_Wheel_khaki",
+        "Ford_Bronco_Rest_Wheel_white",
+        "Ford_Bronco_Rest_Wheel_chrome",
+        "Ford_Bronco_Rest_Wheel_red"
+      ]
+    },
+    {
+      "ClassName": "Ford_Bronco_Rest_doors_trunk",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_Bronco_Rest_doors_trunk_white",
+        "Ford_Bronco_Rest_doors_trunk_black",
+        "Ford_Bronco_Rest_doors_trunk_blue",
+        "Ford_Bronco_Rest_doors_trunk_khaki",
+        "Ford_Bronco_Rest_doors_trunk_red"
+      ]
+    },
+    {
+      "ClassName": "Ford_Bronco_Rest_doors_coDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_Bronco_Rest_doors_coDriver_white",
+        "Ford_Bronco_Rest_doors_coDriver_black",
+        "Ford_Bronco_Rest_doors_coDriver_blue",
+        "Ford_Bronco_Rest_doors_coDriver_khaki",
+        "Ford_Bronco_Rest_doors_coDriver_red"
+      ]
+    },
+    {
+      "ClassName": "Ford_Bronco_Rest_doors_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_Bronco_Rest_doors_Driver_white",
+        "Ford_Bronco_Rest_doors_Driver_black",
+        "Ford_Bronco_Rest_doors_Driver_blue",
+        "Ford_Bronco_Rest_doors_Driver_khaki",
+        "Ford_Bronco_Rest_doors_Driver_red"
+      ]
+    },
+    {
+      "ClassName": "Ford_Bronco_Rest_doors_hood",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_Bronco_Rest_doors_hood_white",
+        "Ford_Bronco_Rest_doors_hood_black",
+        "Ford_Bronco_Rest_doors_hood_blue",
+        "Ford_Bronco_Rest_doors_hood_khaki",
+        "Ford_Bronco_Rest_doors_hood_red"
+      ]
+    },
+    {
+      "ClassName": "Ford_Bronco_Rest_roof",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_Bronco_Rest_doors_roof_white",
+        "Ford_Bronco_Rest_doors_roof_black",
+        "Ford_Bronco_Rest_doors_roof_blue",
+        "Ford_Bronco_Rest_doors_roof_khaki",
+        "Ford_Bronco_Rest_doors_roof_red"
+      ]
+    },
+    {
+      "ClassName": "Ford_Bronco_Rest_roof_1_1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_Bronco_Rest_doors_roof_1_1_white",
+        "Ford_Bronco_Rest_doors_roof_1_1_black",
+        "Ford_Bronco_Rest_doors_roof_1_1_blue",
+        "Ford_Bronco_Rest_doors_roof_1_1_khaki",
+        "Ford_Bronco_Rest_doors_roof_1_1_red"
+      ]
+    },
+    {
+      "ClassName": "Ford_Bronco_Rest_roof_2_1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ford_Bronco_Rest_doors_roof_2_1_white",
+        "Ford_Bronco_Rest_doors_roof_2_1_black",
+        "Ford_Bronco_Rest_doors_roof_2_1_blue",
+        "Ford_Bronco_Rest_doors_roof_2_1_khaki",
+        "Ford_Bronco_Rest_doors_roof_2_1_red"
+      ]
+    },
+    {
+      "ClassName": "VanExtra_driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "VanExtra_driver_Black",
+        "VanExtra_driver_Red",
+        "VanExtra_driver_Green",
+        "VanExtra_driver_Orange"
+      ]
+    },
+    {
+      "ClassName": "VanExtra_codriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "VanExtra_codriver_Black",
+        "VanExtra_codriver_Red",
+        "VanExtra_codriver_Green",
+        "VanExtra_codriver_Orange"
+      ]
+    },
+    {
+      "ClassName": "VanExtra_cargo1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "VanExtra_cargo1_Black",
+        "VanExtra_cargo1_Red",
+        "VanExtra_cargo1_Green",
+        "VanExtra_cargo1_Orange"
+      ]
+    },
+    {
+      "ClassName": "VanExtra_cargo2_Black",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "VanExtra_cargo2_Black",
+        "VanExtra_cargo2_Red",
+        "VanExtra_cargo2_Green",
+        "VanExtra_cargo2_Orange"
+      ]
+    },
+    {
+      "ClassName": "VanExtraWheel_offroad",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MRAPPunisher_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MRAPPunisher_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPPunisher_Driver_BlueCamo",
+        "MRAPPunisher_Driver_Grey",
+        "MRAPPunisher_Driver_Red",
+        "MRAPPunisher_Driver_Desert"
+      ]
+    },
+    {
+      "ClassName": "MRAPPunisher_CoDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPPunisher_CoDriver_BlueCamo",
+        "MRAPPunisher_CoDriver_Grey",
+        "MRAPPunisher_CoDriver_Red",
+        "MRAPPunisher_CoDriver_Desert"
+      ]
+    },
+    {
+      "ClassName": "MRAPPunisher_Cargo1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPPunisher_Cargo1_BlueCamo",
+        "MRAPPunisher_Cargo1_Grey",
+        "MRAPPunisher_Cargo1_Red",
+        "MRAPPunisher_Cargo1_Desert"
+      ]
+    },
+    {
+      "ClassName": "MRAPPunisher_Cargo2",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPPunisher_Cargo2_BlueCamo",
+        "MRAPPunisher_Cargo2_Grey",
+        "MRAPPunisher_Cargo2_Red",
+        "MRAPPunisher_Cargo2_Desert"
+      ]
+    },
+    {
+      "ClassName": "MRAPPunisher_Cargo3",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPPunisher_Cargo3_BlueCamo",
+        "MRAPPunisher_Cargo3_Grey",
+        "MRAPPunisher_Cargo3_Red",
+        "MRAPPunisher_Cargo3_Desert"
+      ]
+    },
+    {
+      "ClassName": "MRAPPunisher_Cargo4",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPPunisher_Cargo4_BlueCamo",
+        "MRAPPunisher_Cargo4_Grey",
+        "MRAPPunisher_Cargo4_Red",
+        "MRAPPunisher_Cargo4_Desert"
+      ]
+    },
+    {
+      "ClassName": "MRAPCougar_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPCougar_Wheel_Black",
+        "MRAPCougar_Wheel_SWAT",
+        "MRAPCougar_Wheel_Woodland"
+      ]
+    },
+    {
+      "ClassName": "MRAPCougar_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPCougar_Driver_Black",
+        "MRAPCougar_Driver_SWAT",
+        "MRAPCougar_Driver_FBI",
+        "MRAPCougar_Driver_Woodland"
+      ]
+    },
+    {
+      "ClassName": "MRAPCougar_CoDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPCougar_CoDriver_Black",
+        "MRAPCougar_CoDriver_SWAT",
+        "MRAPCougar_CoDriver_FBI",
+        "MRAPCougar_CoDriver_Woodland"
+      ]
+    },
+    {
+      "ClassName": "MRAPCougar_Cargo1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPCougar_Cargo1_Black",
+        "MRAPCougar_Cargo1_SWAT",
+        "MRAPCougar_Cargo1_FBI",
+        "MRAPCougar_Cargo1_Woodland"
+      ]
+    },
+    {
+      "ClassName": "MRAPCougar_Cargo2",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPCougar_Cargo2_Black",
+        "MRAPCougar_Cargo2_SWAT",
+        "MRAPCougar_Cargo2_FBI",
+        "MRAPCougar_Cargo2_Woodland"
+      ]
+    },
+    {
+      "ClassName": "MRAPCougar_StorageCargo1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPCougar_StorageCargo1_Black",
+        "MRAPCougar_StorageCargo1_SWAT",
+        "MRAPCougar_StorageCargo1_FBI",
+        "MRAPCougar_StorageCargo1_Woodland"
+      ]
+    },
+    {
+      "ClassName": "MRAPCougar_StorageCargo2",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPCougar_StorageCargo2_Black",
+        "MRAPCougar_StorageCargo2_SWAT",
+        "MRAPCougar_StorageCargo2_FBI",
+        "MRAPCougar_StorageCargo2_Woodland"
+      ]
+    },
+    {
+      "ClassName": "MRAPCougar_Hatch",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MRAPCougar_Hatch_Black",
+        "MRAPCougar_Hatch_SWAT",
+        "MRAPCougar_Hatch_FBI",
+        "MRAPCougar_Hatch_Woodland"
+      ]
+    },
+    {
+      "ClassName": "MercedesZetros_FrontWheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MercedesZetros_FrontWheel_Desert"
+      ]
+    },
+    {
+      "ClassName": "MercedesZetros_Cover",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MercedesZetros_DesertCover"
+      ]
+    },
+    {
+      "ClassName": "MercedesZetros_RearWheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MercedesZetros_RearWheel_Desert"
+      ]
+    },
+    {
+      "ClassName": "MercedesZetros_Hood",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MercedesZetros_Hood_Desert"
+      ]
+    },
+    {
+      "ClassName": "MercedesZetros_Cover",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MercedesZetros_DesertCover"
+      ]
+    },
+    {
+      "ClassName": "MercedesZetros_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MercedesZetros_Driver_Desert"
+      ]
+    },
+    {
+      "ClassName": "MercedesZetros_CoDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MercedesZetros_CoDriver_Desert"
+      ]
+    },
+    {
+      "ClassName": "M1114Humvee_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "M1114Humvee_Wheel_Black",
+        "M1114Humvee_Wheel_Winter",
+        "M1114Humvee_Wheel_Woodland"
+      ]
+    },
+    {
+      "ClassName": "M1114Humvee_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "M1114Humvee_Driver_Black",
+        "M1114Humvee_Driver_ResidentEvil",
+        "M1114Humvee_Driver_Winter",
+        "M1114Humvee_Driver_Woodland"
+      ]
+    },
+    {
+      "ClassName": "M1114Humvee_CoDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "M1114Humvee_CoDriver_Black",
+        "M1114Humvee_CoDriver_ResidentEvil",
+        "M1114Humvee_CoDriver_Winter",
+        "M1114Humvee_CoDriver_Woodland"
+      ]
+    },
+    {
+      "ClassName": "M1114Humvee_Cargo1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "M1114Humvee_Cargo1_Black",
+        "M1114Humvee_Cargo1_ResidentEvil",
+        "M1114Humvee_Cargo1_Winter",
+        "M1114Humvee_Cargo1_Woodland"
+      ]
+    },
+    {
+      "ClassName": "M1114Humvee_Cargo2",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "M1114Humvee_Cargo2_Black",
+        "M1114Humvee_Cargo2_ResidentEvil",
+        "M1114Humvee_Cargo2_Winter",
+        "M1114Humvee_Cargo2_Woodland"
+      ]
+    },
+    {
+      "ClassName": "M1114Humvee_Hatch",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "M1114Humvee_Hatch_Black",
+        "M1114Humvee_Hatch_ResidentEvil",
+        "M1114Humvee_Hatch_Winter",
+        "M1114Humvee_Hatch_Woodland"
+      ]
+    },
+    {
+      "ClassName": "M1114Humvee_Tailgate",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "M1114Humvee_Tailgate_Black",
+        "M1114Humvee_Tailgate_ResidentEvil",
+        "M1114Humvee_Tailgate_Winter",
+        "M1114Humvee_Tailgate_Woodland"
+      ]
+    },
+    {
+      "ClassName": "M1114Humvee_Trunk",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "M1114Humvee_Trunk_Black",
+        "M1114Humvee_Trunk_ResidentEvil",
+        "M1114Humvee_Trunk_Winter",
+        "M1114Humvee_Trunk_Woodland"
+      ]
+    },
+    {
+      "ClassName": "M1114Humvee_Hood",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "M1114Humvee_Hood_Black",
+        "M1114Humvee_Hood_ResidentEvil",
+        "M1114Humvee_Hood_Winter",
+        "M1114Humvee_Hood_Woodland"
+      ]
+    },
+    {
+      "ClassName": "LAPV_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "LAPV_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "LAPV_Driver_MatteBlack",
+        "LAPV_Driver_Desert",
+        "LAPV_Driver_MatteDesert",
+        "LAPV_Driver_Grey",
+        "LAPV_Driver_MatteGrey",
+        "LAPV_Driver_Green",
+        "LAPV_Driver_MatteGreen"
+      ]
+    },
+    {
+      "ClassName": "LAPV_CoDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "LAPV_CoDriver_MatteBlack",
+        "LAPV_CoDriver_Desert",
+        "LAPV_CoDriver_MatteDesert",
+        "LAPV_CoDriver_Grey",
+        "LAPV_CoDriver_MatteGrey",
+        "LAPV_CoDriver_Green",
+        "LAPV_CoDriver_MatteGreen"
+      ]
+    },
+    {
+      "ClassName": "LAPV_Cargo1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "LAPV_Cargo1_MatteBlack",
+        "LAPV_Cargo1_Desert",
+        "LAPV_Cargo1_MatteDesert",
+        "LAPV_Cargo1_Grey",
+        "LAPV_Cargo1_MatteGrey",
+        "LAPV_Cargo1_Green",
+        "LAPV_Cargo1_MatteGreen"
+      ]
+    },
+    {
+      "ClassName": "LAPV_Cargo2",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "LAPV_Cargo2_MatteBlack",
+        "LAPV_Cargo2_Desert",
+        "LAPV_Cargo2_MatteDesert",
+        "LAPV_Cargo2_Grey",
+        "LAPV_Cargo2_MatteGrey",
+        "LAPV_Cargo2_Green",
+        "LAPV_Cargo2_MatteGreen"
+      ]
+    },
+    {
+      "ClassName": "LAPV_Trunk",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "LAPV_Trunk_MatteBlack",
+        "LAPV_Trunk_Desert",
+        "LAPV_Trunk_MatteDesert",
+        "LAPV_Trunk_Grey",
+        "LAPV_Trunk_MatteGrey",
+        "LAPV_Trunk_Green",
+        "LAPV_Trunk_MatteGreen"
+      ]
+    },
+    {
+      "ClassName": "HemttBox_Wheel",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HemttBox_Driver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "HemttBox_Driver_Desert"
+      ]
+    },
+    {
+      "ClassName": "HemttBox_CoDriver",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "HemttBox_CoDriver_Desert"
+      ]
+    },
+    {
+      "ClassName": "HemttBox_Cargo1",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HemttBox_Cargo2",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HemttBox_Cargo3",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HemttBox_Cargo4",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

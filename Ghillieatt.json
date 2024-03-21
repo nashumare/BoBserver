@@ -1,0 +1,195 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#Ghillie Att.",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "GhillieAtt_OG1",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieAtt_OG2",
+                "GhillieAtt_OG3",
+				"GhillieAtt_OG4",
+				"GhillieAtt_OG5",
+				"GhillieAtt_OG6"
+            ]
+        },
+		{
+            "ClassName": "GhillieAtt_OG7",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieAtt_OG8",
+                "GhillieAtt_OG9",
+				"GhillieAtt_OG10",
+				"GhillieAtt_OG11",
+				"GhillieAtt_OG12"
+            ]
+        },
+		{
+            "ClassName": "GhillieAtt_OG13",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieAtt_OG14",
+                "GhillieAtt_OG15",
+				"GhillieAtt_OG16",
+				"GhillieAtt_OG17",
+				"GhillieAtt_OG18"
+            ]
+        },
+		{
+            "ClassName": "GhillieAtt_OG19",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieAtt_OG20",
+                "GhillieAtt_OG21",
+				"GhillieAtt_OG22",
+				"GhillieAtt_OG23",
+				"GhillieAtt_OG24"
+            ]
+        },
+		{
+            "ClassName": "GhillieAtt_OG25",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieAtt_OG26",
+                "GhillieAtt_OG27",
+				"GhillieAtt_OG28",
+				"GhillieAtt_OG29",
+				"GhillieAtt_OG30"
+            ]
+        },
+		{
+            "ClassName": "GhillieAtt_OG31",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieAtt_OG32",
+                "GhillieAtt_OG3",
+				"GhillieAtt_OG4",
+				"GhillieAtt_OG5",
+				"GhillieAtt_OG6"
+            ]
+        },
+		{
+            "ClassName": "GhillieAtt_OG33",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieAtt_OG34",
+                "GhillieAtt_OG35",
+				"GhillieAtt_OG36",
+				"GhillieAtt_OG37",
+				"GhillieAtt_OG38"
+            ]
+        },
+		{
+            "ClassName": "GhillieAtt_OG39",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieAtt_OG40",
+                "GhillieAtt_OG41",
+				"GhillieAtt_OG42",
+				"GhillieAtt_OG43",
+				"GhillieAtt_OG44"
+            ]
+        },
+		{
+            "ClassName": "GhillieAtt_OG45",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieAtt_OG46",
+                "GhillieAtt_OG47",
+				"GhillieAtt_OG48",
+				"GhillieAtt_OG49",
+				"GhillieAtt_OG50"
+            ]
+        },
+		{
+            "ClassName": "GhillieAtt_OG51",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieAtt_OG52",
+                "GhillieAtt_OG53",
+				"GhillieAtt_OG54",
+				"GhillieAtt_OG55",
+				"GhillieAtt_OG56"
+            ]
+        },
+		{
+            "ClassName": "GhillieAtt_OG57",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GhillieAtt_OG58",
+                "GhillieAtt_OG59",
+				"GhillieAtt_OG60"
+            ]
+        }
+    ]
+}

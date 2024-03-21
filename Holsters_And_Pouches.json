@@ -1,0 +1,142 @@
+{
+  "m_Version": 12,
+  "DisplayName": "ARMOR ATTACHMENTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "chestholster",
+      "MaxPriceThreshold": 120,
+      "MinPriceThreshold": 120,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "platecarrierholster",
+      "MaxPriceThreshold": 120,
+      "MinPriceThreshold": 120,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "platecarrierholster_green",
+        "platecarrierholster_black",
+        "platecarrierholster_camo"
+      ]
+    },
+    {
+      "ClassName": "platecarrierpouches",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "platecarrierpouches_green",
+        "platecarrierpouches_black",
+        "platecarrierpouches_camo"
+      ]
+    },
+    {
+      "ClassName": "Paragon_BackPouch_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_BackPouch_Blue",
+        "Paragon_BackPouch_Desert",
+        "Paragon_BackPouch_Green",
+        "Paragon_BackPouch_White"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Mag_Pouch_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Mag_Pouch_Green",
+        "Paragon_Mag_Pouch_Desert",
+        "Paragon_Mag_Pouch_Blue",
+        "Paragon_Mag_Pouch_White"
+      ]
+    },
+    {
+      "ClassName": "Paragon_MapPouch_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_MapPouch_Green",
+        "Paragon_MapPouch_Blue",
+        "Paragon_MapPouch_White"
+      ]
+    },
+    {
+      "ClassName": "Paragon_FrontPouch_Digital_Flora",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_FrontPouch_Digital_Desert",
+        "Paragon_FrontPouch_Flora",
+        "Paragon_FrontPouch_Black",
+        "Paragon_FrontPouch_Green",
+        "Paragon_FrontPouch_Fatigue",
+        "Paragon_FrontPouch_Blue",
+        "Paragon_FrontPouch_White",
+        "Paragon_FrontPouch_Desert",
+        "Paragon_FrontPouch_Navy",
+        "Paragon_FrontPouch_Black_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_ButtPouch_Digital_Flora",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_ButtPouch_Digital_Desert",
+        "Paragon_ButtPouch_Flora",
+        "Paragon_ButtPouch_Black",
+        "Paragon_ButtPouch_Green",
+        "Paragon_ButtPouch_Fatigue",
+        "Paragon_ButtPouch_Blue",
+        "Paragon_ButtPouch_White",
+        "Paragon_FrontPouch_Desert",
+        "Paragon_ButtPouch_Navy",
+        "Paragon_ButtPouch_Black_WL"
+      ]
+    }
+  ]
+}

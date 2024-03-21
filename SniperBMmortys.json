@@ -1,0 +1,126 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SNIPER RIFLES MORTYS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "TTC_AWM",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TTC_FD338",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TTC_GEVAR43",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "TTC_GEVAR43_Green",
+        "TTC_GEVAR43_silver",
+        "TTC_GEVAR43_Tan"
+      ]
+    },
+    {
+      "ClassName": "TTC_M24",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "TTC_M24_Woodland",
+        "TTC_M24_WoodlandOld",
+        "TTC_M24_Bjorn"
+      ]
+    },
+    {
+      "ClassName": "TTC_M24_NEW_Black",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "TTC_M24_NEW_Camo",
+        "TTC_M24_NEW_CamoW",
+        "TTC_M24_NEW_Wood"
+      ]
+    },
+    {
+      "ClassName": "TTC_M82",
+      "MaxPriceThreshold": 215000,
+      "MinPriceThreshold": 215000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "TTC_M82_Tan"
+      ]
+    },
+    {
+      "ClassName": "TTC_MRAD",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 180000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "vss",
+      "MaxPriceThreshold": 43200,
+      "MinPriceThreshold": 43200,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_vss_10rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "asval",
+      "MaxPriceThreshold": 43200,
+      "MinPriceThreshold": 43200,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_val_20rnd"
+      ],
+      "Variants": []
+    }
+  ]
+}

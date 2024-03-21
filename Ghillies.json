@@ -1,0 +1,318 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_GHILLIES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "ghilliehood_tan",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ghilliehood_woodland",
+        "ghilliehood_mossy"
+      ]
+    },
+    {
+      "ClassName": "ghilliebushrag_tan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ghilliebushrag_woodland",
+        "ghilliebushrag_mossy"
+      ]
+    },
+    {
+      "ClassName": "ghillietop_tan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ghillietop_woodland",
+        "ghillietop_mossy"
+      ]
+    },
+    {
+      "ClassName": "ghilliesuit_tan",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ghilliesuit_woodland",
+        "ghilliesuit_mossy"
+      ]
+    },
+    {
+      "ClassName": "GhillieHood_OG1",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieHood_OG2",
+        "GhillieHood_OG3",
+        "GhillieHood_OG4",
+        "GhillieHood_OG5",
+        "GhillieHood_OG6",
+        "GhillieHood_OG7",
+        "GhillieHood_OG8",
+        "GhillieHood_OG9",
+        "GhillieHood_OG10"
+      ]
+    },
+    {
+      "ClassName": "GhillieHood_OG11",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieHood_OG12",
+        "GhillieHood_OG13",
+        "GhillieHood_OG14",
+        "GhillieHood_OG15",
+        "GhillieHood_OG16",
+        "GhillieHood_OG17",
+        "GhillieHood_OG18",
+        "GhillieHood_OG19",
+        "GhillieHood_OG20"
+      ]
+    },
+    {
+      "ClassName": "GhillieHood_OG21",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieHood_OG22",
+        "GhillieHood_OG23",
+        "GhillieHood_OG24",
+        "GhillieHood_OG25",
+        "GhillieHood_OG26",
+        "GhillieHood_OG27",
+        "GhillieHood_OG28",
+        "GhillieHood_OG29",
+        "GhillieHood_OG30"
+      ]
+    },
+    {
+      "ClassName": "GhillieHood_OG31",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieHood_OG32",
+        "GhillieHood_OG33",
+        "GhillieHood_OG34",
+        "GhillieHood_OG35",
+        "GhillieHood_OG36",
+        "GhillieHood_OG37",
+        "GhillieHood_OG38",
+        "GhillieHood_OG39",
+        "GhillieHood_OG40"
+      ]
+    },
+    {
+      "ClassName": "GhillieHood_OG41",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieHood_OG42",
+        "GhillieHood_OG43",
+        "GhillieHood_OG44",
+        "GhillieHood_OG45",
+        "GhillieHood_OG46",
+        "GhillieHood_OG47",
+        "GhillieHood_OG48",
+        "GhillieHood_OG49",
+        "GhillieHood_OG50"
+      ]
+    },
+    {
+      "ClassName": "GhillieHood_OG51",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieHood_OG52",
+        "GhillieHood_OG53",
+        "GhillieHood_OG54",
+        "GhillieHood_OG55",
+        "GhillieHood_OG56",
+        "GhillieHood_OG57",
+        "GhillieHood_OG58",
+        "GhillieHood_OG59",
+        "GhillieHood_OG60"
+      ]
+    },
+    {
+      "ClassName": "GhillieSuit_OG1",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieSuit_OG2",
+        "GhillieSuit_OG3",
+        "GhillieSuit_OG4",
+        "GhillieSuit_OG5",
+        "GhillieSuit_OG6",
+        "GhillieSuit_OG7",
+        "GhillieSuit_OG8",
+        "GhillieSuit_OG9",
+        "GhillieSuit_OG10"
+      ]
+    },
+    {
+      "ClassName": "GhillieSuit_OG11",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieSuit_OG12",
+        "GhillieSuit_OG13",
+        "GhillieSuit_OG14",
+        "GhillieSuit_OG15",
+        "GhillieSuit_OG16",
+        "GhillieSuit_OG17",
+        "GhillieSuit_OG18",
+        "GhillieSuit_OG19",
+        "GhillieSuit_OG20"
+      ]
+    },
+    {
+      "ClassName": "GhillieSuit_OG21",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieSuit_OG22",
+        "GhillieSuit_OG23",
+        "GhillieSuit_OG24",
+        "GhillieSuit_OG25",
+        "GhillieSuit_OG26",
+        "GhillieSuit_OG27",
+        "GhillieSuit_OG28",
+        "GhillieSuit_OG29",
+        "GhillieSuit_OG30"
+      ]
+    },
+    {
+      "ClassName": "GhillieSuit_OG31",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieSuit_OG32",
+        "GhillieSuit_OG33",
+        "GhillieSuit_OG34",
+        "GhillieSuit_OG35",
+        "GhillieSuit_OG36",
+        "GhillieSuit_OG37",
+        "GhillieSuit_OG38",
+        "GhillieSuit_OG39",
+        "GhillieSuit_OG40"
+      ]
+    },
+    {
+      "ClassName": "GhillieSuit_OG41",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieSuit_OG42",
+        "GhillieSuit_OG43",
+        "GhillieSuit_OG44",
+        "GhillieSuit_OG45",
+        "GhillieSuit_OG46",
+        "GhillieSuit_OG47",
+        "GhillieSuit_OG48",
+        "GhillieSuit_OG49",
+        "GhillieSuit_OG50"
+      ]
+    },
+    {
+      "ClassName": "GhillieSuit_OG51",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhillieSuit_OG52",
+        "GhillieSuit_OG53",
+        "GhillieSuit_OG54",
+        "GhillieSuit_OG55",
+        "GhillieSuit_OG56",
+        "GhillieSuit_OG57",
+        "GhillieSuit_OG58",
+        "GhillieSuit_OG59",
+        "GhillieSuit_OG60"
+      ]
+    }
+  ]
+}
