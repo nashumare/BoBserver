@@ -1,0 +1,89 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Tier 1 Armor",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Paragon_JPC_Desert",
+      "MaxPriceThreshold": 75000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_JPC_Black",
+        "Paragon_JPC_Blue",
+        "Paragon_JPC_Green",
+        "Paragon_JPC_White",
+        "Paragon_JPC_Fatigue",
+        "Paragon_JPC_Navy",
+        "Paragon_JPC_Black_WL",
+        "Paragon_JPC_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_DCS_L_Desert",
+      "MaxPriceThreshold": 75000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_DCS_L_Black",
+        "Paragon_DCS_L_Blue",
+        "Paragon_DCS_L_Green",
+        "Paragon_DCS_L_White",
+        "Paragon_DCS_L_Fatigue",
+        "Paragon_DCS_L_Navy",
+        "Paragon_DCS_L_Black_WL",
+        "Paragon_DCS_L_WL"
+      ]
+    },
+	{
+      "ClassName": "Paragon_Tac_H_Blue",
+      "MaxPriceThreshold": 75000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Tac_H_Black",
+        "Paragon_Tac_H_Blue",
+        "Paragon_Tac_H_Green",
+        "Paragon_Tac_H_Desert",
+        "Paragon_Tac_H_WL",
+        "Paragon_Tac_H_Fatigue",
+        "Paragon_Tac_H_Navy",
+        "Paragon_Tac_H_Black_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Mando_Desert",
+      "MaxPriceThreshold": 75000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Mando_Black",
+        "Paragon_Mando_Green",
+        "Paragon_Mando_Blue",
+        "Paragon_Mando_WL",
+        "Paragon_Mando_Fatigue",
+        "Paragon_Mando_Navy",
+        "Paragon_Mando_Black_WL"
+      ]
+    }
+  ]
+}

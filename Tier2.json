@@ -1,0 +1,119 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Tier 2 Armor",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+	{
+      "ClassName": "Paragon_TacTec_Desert",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacTec_Black",
+        "Paragon_TacTec_Blue",
+        "Paragon_TacTec_Green",
+        "Paragon_TacTec_Fatigue",
+        "Paragon_TacTec_Navy",
+        "Paragon_TacTec_Black_WL",
+        "Paragon_TacTec_WL",
+        "Paragon_TacTec_White"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Soviet_Desert",
+      "MaxPriceThreshold": 175000,
+      "MinPriceThreshold": 175000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Soviet_Black",
+        "Paragon_Soviet_Green",
+        "Paragon_Soviet_Blue",
+        "Paragon_Soviet_WL",
+        "Paragon_Soviet_Fatigue",
+        "Paragon_Soviet_Navy",
+        "Paragon_Soviet_Black_WL",
+        "Paragon_Soviet_White"
+      ]
+    },
+	{
+      "ClassName": "Paragon_DCS_Desert",
+      "MaxPriceThreshold": 200000,
+      "MinPriceThreshold": 200000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_DCS_Black",
+        "Paragon_DCS_Blue",
+        "Paragon_DCS_Fatigue",
+        "Paragon_DCS_Green",
+        "Paragon_DCS_White",
+        "Paragon_DCS_Navy",
+        "Paragon_DCS_Black_WL",
+        "Paragon_DCS_WL"
+      ]
+    },
+	{
+      "ClassName": "Paragon_Maska_Blue",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Maska_Black",
+        "Paragon_Maska_Desert",
+        "Paragon_Maska_Green",
+        "Paragon_Maska_Black_WL",
+        "Paragon_Maska_Navy"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Combat_H_Blue",
+      "MaxPriceThreshold": 175000,
+      "MinPriceThreshold": 175000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Combat_H_Black",
+        "Paragon_Combat_H_Green",
+        "Paragon_Combat_H_Desert"
+      ]
+    },
+	{
+      "ClassName": "Paragon_Scifi_H_Red",
+      "MaxPriceThreshold": 200000,
+      "MinPriceThreshold": 200000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Scifi_H_Purple",
+        "Paragon_Scifi_H_Desert",
+        "Paragon_Scifi_H_Green",
+        "Paragon_Scifi_H_Blue",
+        "Paragon_Scifi_H_Black"
+      ]
+    }
+  ]
+}

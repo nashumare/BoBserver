@@ -1,0 +1,79 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SUBMACHINE_GUNS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "cz61",
+      "MaxPriceThreshold": 14400,
+      "MinPriceThreshold": 14400,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_cz61_20rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ump45",
+      "MaxPriceThreshold": 13600,
+      "MinPriceThreshold": 13600,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_ump_25rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mp5k",
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 14000,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mp5k_stockbttstck",
+        "mp5_plastichndgrd",
+        "mag_mp5_30rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "aks74u",
+      "MaxPriceThreshold": 23200,
+      "MinPriceThreshold": 23200,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "aks74u_bttstck",
+        "mag_ak74_30rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "pp19",
+      "MaxPriceThreshold": 16200,
+      "MinPriceThreshold": 16200,
+      "SellPricePercent": 30,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "pp19_bttstck",
+        "mag_pp19_64rnd"
+      ],
+      "Variants": []
+    }
+  ]
+}

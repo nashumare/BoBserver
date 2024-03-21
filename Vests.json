@@ -1,0 +1,99 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Vests",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "policevest",
+      "MaxPriceThreshold": 1700,
+      "MinPriceThreshold": 1700,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pressvest_blue",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "pressvest_lightblue"
+      ]
+    },
+    {
+      "ClassName": "ukassvest_black",
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 1800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ukassvest_khaki",
+        "ukassvest_olive",
+        "ukassvest_camo"
+      ]
+    },
+    {
+      "ClassName": "smershvest",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "highcapacityvest_black",
+      "MaxPriceThreshold": 1400,
+      "MinPriceThreshold": 1400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "highcapacityvest_olive"
+      ]
+    },
+    {
+      "ClassName": "platecarriervest",
+      "MaxPriceThreshold": 15500,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "platecarriervest_green",
+        "platecarriervest_black",
+        "platecarriervest_camo"
+      ]
+    },
+    {
+      "ClassName": "huntingvest",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

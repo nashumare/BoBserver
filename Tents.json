@@ -1,0 +1,61 @@
+{
+    "m_Version": 12,
+    "DisplayName": "TENTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "partytent",
+            "MaxPriceThreshold": 15200,
+            "MinPriceThreshold": 15200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "partytent_blue",
+                "partytent_brown",
+                "partytent_lunapark"
+            ]
+        },
+        {
+            "ClassName": "mediumtent",
+            "MaxPriceThreshold": 13000,
+            "MinPriceThreshold": 13000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mediumtent_orange",
+                "mediumtent_green"
+            ]
+        },
+        {
+            "ClassName": "largetent",
+            "MaxPriceThreshold": 22000,
+            "MinPriceThreshold": 22000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "cartent",
+            "MaxPriceThreshold": 28000,
+            "MinPriceThreshold": 28000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

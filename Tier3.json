@@ -1,0 +1,86 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Tier 3 Armor",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Paragon_C6B43_Digital_Flora",
+      "MaxPriceThreshold": 300000,
+      "MinPriceThreshold": 300000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_C6B43_Digital_Desert",
+        "Paragon_C6B43_Flora",
+        "Paragon_C6B43_Desert",
+        "Paragon_C6B43_Black",
+        "Paragon_C6B43_Fatigue",
+        "Paragon_C6B43_Blue",
+        "Paragon_C6B43_White",
+		"Paragon_C6B43_Black_WL",
+        "Paragon_C6B43_WL",
+        "Paragon_C6B43_Navy"
+      ]
+    },
+    {
+      "ClassName": "Paragon_IOTV_Desert",
+      "MaxPriceThreshold": 300000,
+      "MinPriceThreshold": 300000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_IOTV_Black",
+        "Paragon_IOTV_Green",
+        "Paragon_IOTV_White",
+        "Paragon_IOTV_Fatigue",
+        "Paragon_IOTV_Navy",
+        "Paragon_IOTV_Black_WL",
+        "Paragon_IOTV_WL"
+      ]
+    },
+	{
+      "ClassName": "Paragon_Space_Helmet_Blue",
+      "MaxPriceThreshold": 300000,
+      "MinPriceThreshold": 300000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Space_Helmet_Black",
+        "Paragon_Space_Helmet_Desert",
+        "Paragon_Space_Helmet_Green",
+        "Paragon_Space_Helmet_White"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Armored_H_Desert",
+      "MaxPriceThreshold": 300000,
+      "MinPriceThreshold": 300000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Armored_H_Black",
+        "Paragon_Armored_H_Green",
+        "Paragon_Armored_H_Blue",
+        "Paragon_Armored_H_WL",
+        "Paragon_Armored_H_Fatigue",
+        "Paragon_Armored_H_Navy",
+        "Paragon_Armored_H_Black_WL"
+      ]
+    }
+  ]
+}
