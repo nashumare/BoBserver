@@ -1,2 +1,2 @@
-https://discord.gg/5nxFYEKgc5
+https://discord.gg/6EGzx8ghgy
 D6RW87YJIEP15SD69U7SRA851HDFVMXUN89L
