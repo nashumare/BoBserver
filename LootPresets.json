@@ -1,0 +1,146 @@
+{
+  "base": [
+    {
+      "presetName": "Preset_Starwars",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+        "BoBRags",
+        "Blaster",
+        "LastHope"
+      ],
+      "root": 1
+    },
+    {
+      "presetName": "OldTown_PVP",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "root": 1
+    },
+    {
+      "presetName": "BoBRags",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+        "Shoe",
+        "Top",
+        "Pants"
+      ],
+      "root": 0
+    },
+    {
+      "presetName": "Blaster",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+        "TTC_Glock17",
+        "TTC_Mag_Glock_17Rnd"
+      ],
+      "root": 0
+    },
+    {
+      "presetName": "LastHope",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+        "Ammo_9x19",
+        "CombatKnife",
+        "BandageDressing"
+      ],
+      "root": 0
+    }
+  ],
+  "items": [
+    {
+      "presetName": "Shoe",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Sneakers_Red",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+    {
+      "presetName": "Pants",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "CargoPants_Green",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+    {
+      "presetName": "Top",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Shirt_BlueCheck",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+    {
+      "presetName": "TTC_Glock17",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [
+        "TTC_Mag_Glock_17Rnd"
+      ],
+      "itemname": "TTC_Glock17",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+    {
+      "presetName": "TTC_Mag_Glock_17Rnd",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "TTC_Mag_Glock_17Rnd",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "root"
+    },
+    {
+      "presetName": "Ammo_9x19",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "Ammo_9x19",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+    {
+      "presetName": "BandageDressing",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "BandageDressing",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    },
+    {
+      "presetName": "CombatKnife",
+      "individualChance": 1,
+      "chance": 1,
+      "items": [],
+      "itemname": "CombatKnife",
+      "addToHotbar": 0,
+      "quantmin": -1,
+      "quantmax": -1,
+      "spawnIn": "any"
+    }
+  ]
+}

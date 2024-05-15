@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "thousandsSeparator": ".",
+  "currencyPrefix": "$",
+  "currencySuffix": "",
+  "currencyValues": [
+    {
+      "itemclassname": "ExpansionBanknoteUSD",
+      "value": 1,
+      "depositableOnly": 0
+    }
+  ]
+}
