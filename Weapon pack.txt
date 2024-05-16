@@ -1,7 +1,5 @@
 NEW ITEM
 
-
-
 IMP_FnBallista			!!
 IMP_Mag_FNBallista_5Rnd	!!
 IMP_RPD					!!
