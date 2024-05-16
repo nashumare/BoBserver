@@ -1,0 +1,436 @@
+[
+    {
+        "Type": 0,
+        "Name": "West Prison",
+        "X": 5506.0,
+        "Z": 682.0,
+        "Radius": 450,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "KMUC",
+        "X": 7249.0,
+        "Z": 11615.0,
+        "Radius": 600,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Area42",
+        "X": 13374.0,
+        "Z": 9867.0,
+        "Radius": 600,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Airfield",
+        "X": 5483.0,
+        "Z": 3513.0,
+        "Radius": 700,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Camp Tiger",
+        "X": 14478.0,
+        "Z": 5254.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Swamp",
+        "X": 3742.0,
+        "Z": 8812.0,
+        "Radius": 500,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Arctica",
+        "X": 15622.0,
+        "Z": 14809.0,
+        "Radius": 700,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Paris Island",
+        "X": 2784.0,
+        "Z": 3806.0,
+        "Radius": 800,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Temple",
+        "X": 455.0,
+        "Z": 676.0,
+        "Radius": 800,
+        "ShowBorderOnMap": 0,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Camp Eagle",
+        "X": 8819.0,
+        "Z": 3782.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "East Prison",
+        "X": 12943.0,
+        "Z": 1463.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Alcatraz",
+        "X": 15763.0,
+        "Z": 4802.0,
+        "Radius": 500,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Camp Bear",
+        "X": 8910.0,
+        "Z": 5993.0,
+        "Radius": 400,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Sunset Cross",
+        "X": 6646.0,
+        "Z": 6851.0,
+        "Radius": 100,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Power Plant",
+        "X": 4758.0,
+        "Z": 7098.0,
+        "Radius": 300,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "East Harbor",
+        "X": 11287.0,
+        "Z": 10164.0,
+        "Radius": 550,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Deepwater",
+        "X": 1681.0,
+        "Z": 12724.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 0,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Rogue Wave",
+        "X": 2153.0,
+        "Z": 14617.0,
+        "Radius": 100,
+        "ShowBorderOnMap": 0,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Horizon",
+        "X": 4145.0,
+        "Z": 15467.0,
+        "Radius": 175,
+        "ShowBorderOnMap": 0,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Swansi Island",
+        "X": 1159.0,
+        "Z": 15312.0,
+        "Radius": 1000,
+        "ShowBorderOnMap": 0,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Temple telport",
+        "X": 3876.0,
+        "Z": 9831.0,
+        "Radius": 10,
+        "ShowBorderOnMap": 0,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Old Town",
+        "X": 1992.0,
+        "Z": 9023.0,
+        "Radius": 500,
+        "ShowBorderOnMap": 0,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Black Market",
+        "X": 14860.0,
+        "Z": 3103.0,
+        "Radius": 400,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "East to Area 42 bridge",
+        "X": 11822.0,
+        "Z": 9939.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "East to Area 42 bridge",
+        "X": 12069.0,
+        "Z": 9931.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Ship wreck",
+        "X": 12307.0,
+        "Z": 9911.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Area 42 to East bridge",
+        "X": 12566.0,
+        "Z": 9915.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Area 42 to East bridge",
+        "X": 12796.0,
+        "Z": 9908.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Aircraft Carrier",
+        "X": 13220.0,
+        "Z": 15509.0,
+        "Radius": 500,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Swansi Island 2",
+        "X": 1899.0,
+        "Z": 16014.0,
+        "Radius": 300,
+        "ShowBorderOnMap": 0,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "",
+        "X": 8194.0,
+        "Z": 8100.0,
+        "Radius": 12000,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "6 7 1",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    }
+]

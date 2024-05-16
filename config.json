@@ -1,0 +1,367 @@
+{
+    "version": 22,
+    "garageKeys": 2,
+    "vehicleToSpawnPointDistanceToStore": 8.0,
+    "defaultSlotSize": 1,
+    "wipeGarageInventories": 0,
+    "slotSizeOverwrites": [
+        {
+            "itemname": "Truck_01_Base",
+            "slotSize": 2
+        }
+    ],
+    "maxPrivateGaragesPerPlayer": 2,
+    "maxPrivateGaragesPerGroup": 2,
+    "maxPrivateGaragesPerFlagpole": 1,
+    "checkLineOfSight": 0,
+    "maxSpawnAreaDistanceFromPlayerGarage": 20.0,
+    "allowPlayerGaragePackWithVehiclesStored": 0,
+    "privateGaragePinLength": 6,
+    "healthDamageOnWrongPinEntered": 5,
+    "startHealthDamageAfterXWrongTries": 5,
+    "enablePrivateGarageHacking": 0,
+    "maxVehiclesRevealedAfterHacking": 2,
+    "minVehiclesRevealedAfterHacking": 1,
+    "hackingDurationSeconds": 120,
+    "hackingStartMessage": "$player$ is hacking a garage at $x$ $y$ $z$ Time left: $time$",
+    "hackingSuccessMessage": "$player$ hacked the garage at $x$ $y$ $z$ successfully",
+    "hackingAbortMessage": "$player$ stopped hacking the garage at $x$ $y$ $z$",
+    "removeVehicleLockAfterBeingHacked": 1,
+    "markHackerPositionOnMap": 1,
+    "abortHackingWhenNoVehiclesLeft": 1,
+    "chanceToRevealNextVehicle": 0.5,
+    "itemDamageAfterHacking": 30,
+    "disableDumpButton": 1,
+    "showSpawnConesAtPublicTraders": 1,
+    "parkAreaIgnoreItems": [
+        "Land_RoadCone"
+    ],
+    "privateGarages": [
+        {
+            "itemname": "Garage_Sign_Player",
+            "notLinkedTraderGroupname": "Personal Vehicles",
+            "linkedToTraderGarages": 0,
+            "linkedPersonalTraderGroupname": "Ground Vehicles",
+            "linkedGroupTraderGroupname": "Ground Vehicles"
+        },
+        {
+            "itemname": "Garage_Sign_Player_2",
+            "notLinkedTraderGroupname": "Personal Vehicles",
+            "linkedToTraderGarages": 0,
+            "linkedPersonalTraderGroupname": "Ground Vehicles",
+            "linkedGroupTraderGroupname": "Ground Vehicles"
+        }
+    ],
+    "garageGroups": [
+        {
+            "name": "Ground Vehicles",
+            "costWithdraw": 0,
+            "costDeposit": 0,
+            "createNewKeyWhenWithdrawing": 0,
+            "spawnVehicleLocked": 1,
+            "requireKeyToDeposit": 1,
+            "requireVehicleLockedToStore": 1,
+            "requireKeyToWithdraw": 1,
+            "deleteKeyWhenDepositing": 0,
+            "forceKeyAssignedToParkIn": 1,
+            "saveInventory": 1,
+            "canBuyVehiclesAtAdminPlaced": 0,
+            "canBuyVehiclesAtPlayerPlaced": 0,
+            "canSellVehiclesAtPlayerPlaced": 0,
+            "canSellVehiclesAtAdminPlaced": 0,
+            "addKeyToBoughtVehicle": 0,
+            "canRepaintVehicles": 0,
+            "canRepairVehicle": 0,
+            "baseVehicleRepairCost": 10000.0,
+            "singleAttachmentRepairCost": 1000.0,
+            "canRepairVehicleAttachments": 1,
+            "canRepairRuinedAttachments": 0,
+            "canRefuelVehicle": 1,
+            "fuelCostPerLiter": 10.0,
+            "waterCoolantCostPerLiter": 5.0,
+            "vehicleWhitelist": [
+                "Sedan_02",
+                "CivilianSedan",
+                "Hatchback_02",
+                "OffroadHatchback",
+                "Truck_02",
+                "Truck_01_Base",
+                "Transport"
+            ],
+            "inventoryItemBlacklist": [
+                "ExpansionBanknoteUSD",
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy",
+                "HDSN_C4Stick",
+                "HDSN_C4StickWithDuctTape"
+            ],
+            "levels": [
+                {
+                    "level": 0,
+                    "cost": 0,
+                    "slots": 2
+                },
+                {
+                    "level": 1,
+                    "cost": 10000,
+                    "slots": 4
+                },
+                {
+                    "level": 2,
+                    "cost": 50000,
+                    "slots": 7
+                }
+            ]
+        },
+        {
+            "name": "Air Vehicles",
+            "costWithdraw": 0,
+            "costDeposit": 0,
+            "createNewKeyWhenWithdrawing": 0,
+            "spawnVehicleLocked": 0,
+            "requireKeyToDeposit": 0,
+            "requireVehicleLockedToStore": 0,
+            "requireKeyToWithdraw": 0,
+            "deleteKeyWhenDepositing": 0,
+            "forceKeyAssignedToParkIn": 0,
+            "saveInventory": 1,
+            "canBuyVehiclesAtAdminPlaced": 0,
+            "canBuyVehiclesAtPlayerPlaced": 0,
+            "canSellVehiclesAtPlayerPlaced": 0,
+            "canSellVehiclesAtAdminPlaced": 0,
+            "addKeyToBoughtVehicle": 0,
+            "canRepaintVehicles": 0,
+            "canRepairVehicle": 0,
+            "baseVehicleRepairCost": 10000.0,
+            "singleAttachmentRepairCost": 1000.0,
+            "canRepairVehicleAttachments": 0,
+            "canRepairRuinedAttachments": 0,
+            "canRefuelVehicle": 1,
+            "fuelCostPerLiter": 10.0,
+            "waterCoolantCostPerLiter": 5.0,
+            "vehicleWhitelist": [
+                "Helicoper_Classname",
+                "Transport"
+            ],
+            "inventoryItemBlacklist": [
+                "ExpansionBanknoteUSD",
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy",
+                "HDSN_C4Stick",
+                "HDSN_C4StickWithDuctTape"
+            ],
+            "levels": [
+                {
+                    "level": 0,
+                    "cost": 0,
+                    "slots": 2
+                },
+                {
+                    "level": 1,
+                    "cost": 50000,
+                    "slots": 4
+                },
+                {
+                    "level": 2,
+                    "cost": 120000,
+                    "slots": 7
+                }
+            ]
+        },
+        {
+            "name": "Personal Vehicles",
+            "costWithdraw": 0,
+            "costDeposit": 0,
+            "createNewKeyWhenWithdrawing": 0,
+            "spawnVehicleLocked": 1,
+            "requireKeyToDeposit": 1,
+            "requireVehicleLockedToStore": 1,
+            "requireKeyToWithdraw": 1,
+            "deleteKeyWhenDepositing": 0,
+            "forceKeyAssignedToParkIn": 1,
+            "saveInventory": 1,
+            "canBuyVehiclesAtAdminPlaced": 0,
+            "canBuyVehiclesAtPlayerPlaced": 0,
+            "canSellVehiclesAtPlayerPlaced": 0,
+            "canSellVehiclesAtAdminPlaced": 0,
+            "addKeyToBoughtVehicle": 0,
+            "canRepaintVehicles": 0,
+            "canRepairVehicle": 0,
+            "baseVehicleRepairCost": 10000.0,
+            "singleAttachmentRepairCost": 1000.0,
+            "canRepairVehicleAttachments": 0,
+            "canRepairRuinedAttachments": 0,
+            "canRefuelVehicle": 1,
+            "fuelCostPerLiter": 10.0,
+            "waterCoolantCostPerLiter": 5.0,
+            "vehicleWhitelist": [
+                "Transport"
+            ],
+            "inventoryItemBlacklist": [],
+            "levels": [
+                {
+                    "level": 0,
+                    "cost": 0,
+                    "slots": 2
+                },
+                {
+                    "level": 1,
+                    "cost": 50000,
+                    "slots": 4
+                },
+                {
+                    "level": 2,
+                    "cost": 120000,
+                    "slots": 7
+                }
+            ]
+        }
+    ],
+    "traders": [
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                3739.43994140625,
+                19.44228172302246,
+                6006.830078125
+            ],
+            "objectOrientation": [
+                50.0,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                3738.340087890625,
+                19.27174186706543,
+                6000.02001953125
+            ],
+            "vehicleSpawnOrientation": [
+                -40.70000076293945,
+                -3.0,
+                0.0
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Ground Vehicles",
+            "groupTraderGroupname": "Ground Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                1886.567626953125,
+                9.1899995803833,
+                9074.490234375
+            ],
+            "objectOrientation": [
+                211.13035583496095,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                1886.567626953125,
+                9.1899995803833,
+                9074.490234375
+            ],
+            "vehicleSpawnOrientation": [
+                211.13035583496095,
+                0.0,
+                0.0
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Ground Vehicles",
+            "groupTraderGroupname": "Ground Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                8423.18359375,
+                22.9307861328125,
+                2063.732177734375
+            ],
+            "objectOrientation": [
+                151.07748413085938,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                8423.18359375,
+                22.9307861328125,
+                2063.732177734375
+            ],
+            "vehicleSpawnOrientation": [
+                151.07748413085938,
+                0.0,
+                0.0
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Ground Vehicles",
+            "groupTraderGroupname": "Ground Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign",
+            "objectPosition": [
+                8431.4990234375,
+                22.83469581604004,
+                2064.20068359375
+            ],
+            "objectOrientation": [
+                180.74444580078126,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                8431.4990234375,
+                22.83469581604004,
+                2064.20068359375
+            ],
+            "vehicleSpawnOrientation": [
+                180.74444580078126,
+                0.0,
+                0.0
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Ground Vehicles",
+            "groupTraderGroupname": "Ground Vehicles"
+        },
+        {
+            "traderItemClassname": "Garage_Sign_2",
+            "objectPosition": [
+                5515.97998046875,
+                74.0,
+                3601.9599609375
+            ],
+            "objectOrientation": [
+                64.64530181884766,
+                0.0,
+                0.0
+            ],
+            "vehicleSpawnPosition": [
+                5522.39013671875,
+                74.0,
+                3607.219970703125
+            ],
+            "vehicleSpawnOrientation": [
+                37.3296012878418,
+                0.000007965850272739772,
+                0.00000607484980719164
+            ],
+            "cameraDistance": 8.0,
+            "cameraRotation": 45.0,
+            "cameraAngle": 30.0,
+            "blackboxPreview": 0,
+            "personalTraderGroupname": "Ground Vehicles",
+            "groupTraderGroupname": "Ground Vehicles"
+        }
+    ]
+}
